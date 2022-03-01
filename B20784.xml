@@ -1,0 +1,736 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay for the conversion of the Irish shewing that 'tis their duty and interest to become Protestants : in a letter to themselves.</title>
+            <author>Cox, Richard, Sir, 1650-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20784</idno>
+            <idno type="STC">Wing C6721</idno>
+            <idno type="EEBO-CITATION">09519239</idno>
+            <idno type="OCLC">ocm 09519239</idno>
+            <idno type="VID">204451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1328:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay for the conversion of the Irish shewing that 'tis their duty and interest to become Protestants : in a letter to themselves.</title>
+                  <author>Cox, Richard, Sir, 1650-1733.</author>
+               </titleStmt>
+               <extent>46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Catholic Church --  Ireland.</term>
+               <term>Ireland --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204451:1" rendition="simple:additions"/>
+            <p> AN ESSAY FOR THE <hi>CONVERSION</hi> OF THE IRISH; SHEWING That 'tis their <hi>Duty</hi> and <hi>Intereſt</hi> To Become PROTESTANTS.</p>
+            <p>In a Letter to Themſelves.</p>
+            <q>
+               <bibl>S. BASIL, EPIST. 80.</bibl>
+               <p>
+                  <hi>Let the Holy Scriptures be Arbitrators between Us, and whoſoever hold Opinions conſonant to thoſe Heavenly Oracles, Let the Truth be adjudged on their ſide.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>DUBLIN,</hi> Printed by <hi>Ioſeph <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay,</hi> and are to be Sold at his Shop in <hi>Skinner-Row.</hi> 1698.</p>
+            <p>
+               <hi>Price Six-Pence.</hi>
+            </p>
+            <pb facs="tcp:204451:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204451:2"/>
+            <head>To my Country-Men, <hi>The ROMAN CATHOLICKS of</hi> IRELAND.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p n="1">
+               <label>
+                  <hi>Sect</hi> 1.</label> I May with Reaſon expect that you ſhould give ſome Regard to the following Ad<g ref="char:EOLhyphen"/>monitons, ſince They Reſult from the <hi>Compaſſion</hi> of a <hi>Gentleman,</hi> the <hi>Charity</hi> of a <hi>Chriſtian,</hi> and the <hi>Affection</hi> of a <hi>Friend;</hi> and their Deſign is to promote the <hi>Safety and Happineſs</hi> of the <hi>Kingdom</hi> in general, and of <hi>You</hi> in particular.</p>
+            <p n="2">
+               <label>
+                  <hi>Sect</hi> 2.</label> Nor ought it to diſoblige you, that I ex<g ref="char:EOLhyphen"/>plain my Friendſhip not to extend to your <hi>Popory,</hi> or your <hi>Vices;</hi> ſince 'tis the Deſign of this Epiſtle to Reform both Theſe. 'Tis better that my Affection ſhould be founded, as it is, upon the <hi>Good Qualities</hi> you are endued with, and the Diſpoſition I think I perceive in You at This Time to a <hi>General Conver<g ref="char:EOLhyphen"/>ſion,</hi> and to become <hi>Good Subjects</hi> and <hi>Good Chriſtians.</hi>
+            </p>
+            <p n="3">
+               <label>
+                  <hi>Sect</hi> 3.</label> And ſince 'tis your <hi>Intereſt</hi> to be ſo, That you may live Comfortably in <hi>This</hi> World, and be Happy in the <hi>Next,</hi> you ought to be Diligent in <hi>Finding out,</hi> and Careful in <hi>Purſuing</hi> the proper Me<g ref="char:EOLhyphen"/>thods for Attaining thoſe Important Ends.</p>
+            <p n="4">
+               <label>
+                  <hi>Sect</hi> 4.</label> But becauſe they are moſt Obedient to their <hi>Phyſician,</hi> who are throughly Convinced that their Diſtemper is <hi>Dangerous,</hi> I ought firſt to En<g ref="char:EOLhyphen"/>quire how far you are from being <hi>Good Sabjects</hi> or <hi>Good Chriſtians,</hi> whilſt you continue <hi>Papiſts,</hi> in hopes it may prepare you to receive my Directions the more readily for your <hi>Amendment</hi> in both,</p>
+            <p n="5">
+               <pb n="2" facs="tcp:204451:3"/> 
+               <hi>Sect.</hi> 5. How far too many of You are from being <hi>Good Subjects</hi> to a Proteſtant <hi>King,</hi> whom you believe <hi>Damn'd,</hi> and wiſh <hi>Dethron'd,</hi> your own Hearts can teſtifie, as your Tongues do every day, whilſt they expreſs the Exultations of your Souls at every Misfortune that befalls the <hi>Engliſh,</hi> and the Diſſatisfaction of your Minds at the Glorious Suc<g ref="char:EOLhyphen"/>ceſſes of Our <hi>Victorious King:</hi> Examine your own Hearts, How much were you griev'd at that Com<g ref="char:EOLhyphen"/>mon Good of a <hi>General Peace?</hi> How loth were you to believe it, even after it was <hi>Proclaim'd?</hi> How many Ridiculous and Improbable <hi>Stories</hi> did you ei<g ref="char:EOLhyphen"/>ther <hi>Invent</hi> or Promote to keep up the Spirits of your <hi>Party,</hi> during the War, and particularly that groundleſs Sham of <hi>England</hi>'s <hi>being left out of the Peace?</hi> How often have you wiſh'd Succeſs to thoſe Enemies of Chriſtianity the <hi>Turks,</hi> in hopes it might divert the Confederate Princes, and promote the Deſigns that were formed to Enſlave <hi>Chriſtendom?</hi> How zealous were you for Arbitrary Power in the late Reigns, in order to bring in <hi>Po<g ref="char:EOLhyphen"/>pery</hi> upon the Ruines of the <hi>Laws</hi> and <hi>Liberties</hi> of your Country? But not to inſiſt upon the <hi>Words</hi> of your <hi>Mouths,</hi> or the <hi>Meditations</hi> of your Hearts, Let us reſort to <hi>Action,</hi> and Enquire how it has been in former Times; and ſure it could not be well with Thoſe who ſtifled the operations of their own Reaſon, and gave themſelves up to the Conduct of <hi>Popiſh Clergy,</hi> whoſe Oath is ſo ſtrict, that as the <hi>Friar</hi> confeſſed, <hi>They must be perjur'd to the Pope, if they prove True to the King.</hi>
+            </p>
+            <p n="6">
+               <label>
+                  <hi>Sect</hi> 6</label> As to the Time before the <hi>Conquest,</hi> your own Procurator-General, <hi>Peter Walſh</hi> confeſſes, <hi>Tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> never any Nation upon Earth came near the</hi> Mile<g ref="char:EOLhyphen"/>ſian Iriſh, <hi>in the most Unnatural Feuds that have been heard of; Feuds</hi> (ſays he) <hi>ſo prodigiouſly Bloody, that as they were first Founded, ſo they still increaſed and Conti<g ref="char:EOLhyphen"/>nued in Blood, from the Foundation of the Monarchy in the Blood of</hi> Heber, <hi>to the Murder of the Penultimate Monarch,</hi> Moriurta Mac Neil; <hi>Feuds continued with</hi>
+               <pb n="3" facs="tcp:204451:3"/> 
+               <hi>the greatest Pride, most Helliſh Ambition, and cruelleſt Deſires of Revenge, and followed with the moſt horrible Injuſtices, Rapines, Deſolations, Perfidiouſneſs, Rebelli<g ref="char:EOLhyphen"/>ons, Treacheries and Murders, for almoſt</hi> 2000 <hi>Years.</hi> He proceeds, and ſays, <hi>That we never read of any other People in the World, ſo Implacably, ſo Furiouſly, ſo Eter<g ref="char:EOLhyphen"/>nally ſet upon the Deſtruction of one another.</hi> He tells you of 600 Battels fought Cruelly and Unnaturally by Men of the ſame Country, Language; Lineage, and Religious Rites, Tearing out the Lives of one another for Dominion or Revenge; and that 118 <hi>Iriſh Monarchs</hi> were ſlaughter'd by <hi>their own Subjects,</hi> whereof 94 were <hi>Murder'd,</hi> and 86 of them ſuc<g ref="char:EOLhyphen"/>ceeded by the <hi>Regicides,</hi>
+            </p>
+            <p n="7">
+               <label>
+                  <hi>Sect</hi> 7.</label> And now, Gentlemen, pray conſider whether any <hi>Chriſtian</hi> ought to boaſt of the Loyalty of ſuch <hi>Anceſtors,</hi> or glory in the <hi>Religion</hi> of ſuch <hi>Fore-fathers.</hi>
+            </p>
+            <p n="8">
+               <label>
+                  <hi>Sect</hi> 8.</label> But as it was thus bad before the <hi>Conqueſt,</hi> it has not been much better ſince; for it is manifeſt that there have been more <hi>Rebellions</hi> in <hi>Ireland</hi> ſince the <hi>Conqueſt,</hi> than there have been in any two King<g ref="char:EOLhyphen"/>doms of <hi>Europe</hi> within that period.</p>
+            <p n="9">
+               <label>
+                  <hi>Sect</hi> 9.</label> But becauſe the greateſt Pretenſions of <hi>Iriſh Loyalty</hi> were made to the Royal Family of the <hi>Stuarts,</hi> who (they ſay) were of their <hi>Mileſian</hi> Blood and Lineage, and Deſcended from the Ancient Mo<g ref="char:EOLhyphen"/>narchs of <hi>Ireland,</hi> it will be fit to give you a Sum<g ref="char:EOLhyphen"/>mary View of your Anceſtors Behavior, and your own, in their Reigns.</p>
+            <p n="10">
+               <hi>Sest.</hi> 10. And firſt for King <hi>James I.</hi> 'Tis certain that he had but little reſpect from the <hi>Iriſh;</hi> for as ſoon as they underſtood him to be a <hi>Proteſtant,</hi> and Reſolv'd to continue ſo, they oppos'd his Government: Even the great Cities and <note place="margin">1603.</note> Towns that had been ſtanch in former Rebellions, were deeply Engaged in this. <hi>Limrick, Kilkenny, Clonmel,</hi> and <hi>Wexford,</hi> were of this Num<g ref="char:EOLhyphen"/>ber; but <hi>Waterford</hi> and <hi>Cork</hi> were more obſtinate than the reſt, ſo that the Lord <hi>Mountjoy</hi> found it ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="4" facs="tcp:204451:4"/> to march in Perſon with the Army to Re<g ref="char:EOLhyphen"/>duce them.</p>
+            <p n="11">
+               <label>
+                  <hi>Sect</hi> 11.</label> This was follow'd by the Gun-Powder-Treaſon in <hi>England;</hi> and ſoon after was the Conſpiracy of the Earls of <hi>Tyrone</hi> and <note place="margin">1607.</note> 
+               <hi>Tyrconnel,</hi> and their Accomplices in <hi>Ireland,</hi> which being diſcovered, they fled to <hi>Spain,</hi> and the next year, upon promiſe of their <note place="margin">1608.</note> Return with Succours, Sir <hi>Cahir O Dogherty</hi> ſeiz'd <hi>Derry</hi> and <hi>Culmore,</hi> and murdred the Gover<g ref="char:EOLhyphen"/>nour and took the Field; but about five months af<g ref="char:EOLhyphen"/>ter he was defeated and ſlain, which diſcouraged all other Rebellions in that Reign; tho' the Sediti<g ref="char:EOLhyphen"/>ous Behaviour of the <hi>Popiſh Members</hi> in the <hi>Parlia<g ref="char:EOLhyphen"/>ment, Anno</hi> 1613. came very near one, and did in effect Threaten it.</p>
+            <p n="12">
+               <label>
+                  <hi>Sect</hi> 12.</label> The next that Aſcended the Throne was King <hi>Charles I. Who without doubt had as good Title as his Son King James II,</hi> And yet the Iriſh did Rebel a<g ref="char:EOLhyphen"/>gainſt him (<hi>Anno</hi> 1641.) at a time when he was ve<g ref="char:EOLhyphen"/>ry much diſtreſs'd and in a manner more <hi>Barbarous</hi> and <hi>Bloody</hi> than ever had been known before; And when that Kings Affairs requir'd a Peace, the Iriſh Papiſts, and eſpecially thoſe of the Nuncio's Party, <hi>(tho' they boaſted of Loyalty then, as loudly as they do now)</hi> undutifully held him to <hi>Difficult</hi> and <hi>Deſtructive</hi> Con<g ref="char:EOLhyphen"/>ditions, and Vary'd and Inhanc'd upon him, as his Neceſſities increas'd; and when the Peace of 1646. was made, it was within three weeks after Perfidi<g ref="char:EOLhyphen"/>ouſly Broken by <hi>Publick Edict</hi> of the <hi>Clergy</hi> at <hi>Water<g ref="char:EOLhyphen"/>ford</hi> Thoſe that did obſerve it, were Excommu<g ref="char:EOLhyphen"/>nicated by the <hi>Nuntio;</hi> and the <hi>Kings Heralds</hi> that went to proclaim it, were baſely Affronted both at <hi>Waterford</hi> and <hi>Limrick,</hi> to the great hazard of their Lives, and contrary to Allegiance, Good Manners, and the Law of Nations.</p>
+            <p n="13">
+               <label>
+                  <hi>Sect</hi> 13.</label> Nor were they more dutiful in His Ma<g ref="char:EOLhyphen"/>jeſties Extremities, for they delayed the Peace of 1648 until a Fortnight before his <hi>Death,</hi> and even then <hi>Forc'd</hi> Conditions upon Him that <hi>Haſtned</hi> his
+<pb n="5" facs="tcp:204451:4"/> Fate: And this <hi>Peace</hi> alſo was perfidiouſly violated, as well as the former; not only becauſe <hi>Limrick, Waterford</hi> and other great Towns, would not obey the Lord Lieutenant <hi>(Ormond)</hi> according to Stipula<g ref="char:EOLhyphen"/>tion, but alſo becauſe they <hi>Perſecuted</hi> him with a Thouſand <hi>Affronts</hi> and <hi>Indignities,</hi> and at laſt <hi>Drove</hi> him out of the <hi>Kingdom,</hi> even whilſt he was <hi>Cloa<g ref="char:EOLhyphen"/>thed</hi> with the <hi>Royal Authority.</hi> And they were no leſs Undutiful to the Lord Deputy <hi>(Clanrickard)</hi> tho he was of their <hi>Own Religion;</hi> ſo that they had no other Quarrel to him, but that he was the King of <hi>England</hi>'s <hi>Deputy;</hi> and yet without his Concurrence or Knowledge, they ſent Agents to Offer the King<g ref="char:EOLhyphen"/>dom to the <hi>Pope,</hi> the <hi>French King,</hi> the <hi>Duke of Lorain;</hi> or indeed any Body that would take it from the <hi>Engliſh.</hi>
+            </p>
+            <p n="14">
+               <label>
+                  <hi>Sect</hi> 15.</label> As to the Reign of King <hi>Charles</hi> II. they lived in too much <hi>Hopes,</hi> to plunge themſelves into <hi>Open Rebellion:</hi> However, they gave this Demon<g ref="char:EOLhyphen"/>ſtration of their <hi>Inclinations,</hi> That in a National Synod held by Extraordinary Favour at <hi>Dublin, Anno</hi> 1666. They refuſed to let the People take an Oath of <hi>Allegiance,</hi> which their own Procurator-General, <hi>P. W.</hi> had fram'd for them; but on the contrary, Perſecuted him and his Adherents for en<g ref="char:EOLhyphen"/>deavouring to Bind them to a <hi>Heretick Government</hi> by ſo ſtrict an Oath; and they alſo refuſed to beg Par<g ref="char:EOLhyphen"/>don for the Rebellion of 1641. one of their Biſhops publickly averring, <hi>That he knew none at all guilty of any Crime for any thing done in the War.</hi>
+            </p>
+            <p n="15">
+               <hi>Sect<g ref="char:punc">▪</g>
+               </hi> 16. And as for King <hi>James</hi> II. You muſt al<g ref="char:EOLhyphen"/>low that your Partiality was to his <hi>Popery,</hi> and not to his <hi>Perſon,</hi> or his <hi>Title;</hi> and that you valued him as your <hi>Popiſh Friend,</hi> and not as an <hi>Engliſh King,</hi> ſince you paid him no more <hi>Reſpect</hi> or <hi>Loyalty,</hi> than your <hi>Own Intereſt</hi> required; and when that varied, you ſhewed little Reſpect to <hi>Him</hi> or <hi>His Intereſt,</hi> but on the contrary us'd him very ill in many things, and particularly in the Inſtances following.</p>
+            <p n="16">
+               <pb n="6" facs="tcp:204451:5"/> 
+               <hi>Sect.</hi> 17. Firſt, Whereas nothing could more Prejudice or Diſoblige the People of <hi>England,</hi> or Defeat King <hi>James</hi>'s hopes of being Reſtor'd there, than the ill Uſage of the <hi>Proteſtants,</hi> eſpecially Cler<g ref="char:EOLhyphen"/>gy-men, in <hi>Ireland;</hi> yet did you Barbarouſly and Ungratefully abuſe the <hi>Engliſh</hi> in all parts of the Kingdom; you Aſſaulted and Wounded ſome of the Clergy, and forc'd from them ſeveral of their <hi>Churches,</hi> contrary to <hi>Law,</hi> and contrary to King <hi>James</hi>'s <hi>Expreſs Command,</hi> whom you <hi>Aw'd</hi> to that degreee, That thô he iſſued a Proclamation to pre<g ref="char:EOLhyphen"/>vent ſeizing any More <hi>Chnrches,</hi> yet he did not think fit to inſert a Clauſe for the <hi>Reſtitution</hi> of thoſe that were illegally taken before.</p>
+            <p n="17">
+               <label>
+                  <hi>Sect</hi> 18.</label> Secondly, Contrary to King <hi>James</hi>'s In<g ref="char:EOLhyphen"/>tereſt and Inclination, and to the Fundamental and Inherent <hi>Right</hi> of the Crown of <hi>England,</hi> you made This <hi>Kingdom</hi> Independent of <hi>That;</hi> You forc'd him to call a <hi>Parliament</hi> Unſeaſonably, when he had need of the Members to promote the Siege of <hi>Derry</hi> You baffled <hi>Poyning</hi>'s <hi>Law,</hi> and Repeal'd the <hi>Act of Settlement,</hi> and Prohibited <hi>Appeals</hi> and <hi>Writs of Error</hi> from hence to <hi>England.</hi>
+            </p>
+            <p n="18">
+               <label>
+                  <hi>Sect</hi> 19.</label> Thirdly, Whereas you had Cried Up and Aſſerted King <hi>James</hi>'s <hi>Diſpenſing Power</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and therefore ſhould have done ſo in <hi>Ireland,</hi> that we might have thought you <hi>in Earneſt,</hi> yet you were ſo far from this, that by your Severe Bill of <hi>Attainder,</hi> whereby you endeavour'd to Ruine Wo<g ref="char:EOLhyphen"/>men and Children, ſome that were never in <hi>Ireland,</hi> and more that had never done you any harm, you took away the King's Power to <hi>Pardon,</hi> which is the Inherent Right of the Crown.</p>
+            <p n="19">
+               <label>
+                  <hi>Sect</hi> 20.</label> Fourthly, Thô the Chancellorſhip and Treaſurerſhip of <hi>Chriſt-Church Dublin,</hi> were found<g ref="char:EOLhyphen"/>ed by Queen <hi>Mary,</hi> and the Namination to thoſe Dignities reſerved to her and her Succeſſors; yet did the Titular Archbiſhop of <hi>Dublin</hi> clandeſtinely obtain Bulls from <hi>Rome,</hi> and put in two Prieſts into thoſe Places againſt King <hi>James</hi>'s Will; and thô he
+<pb n="7" facs="tcp:204451:5"/> offer'd them <hi>Equivalents,</hi> yet they Conteſted the matter ſo <hi>Obſtinately</hi> with him, that he was forc'd to pronounce the Bulls <hi>Surreptitious,</hi> and to write to <hi>Rome</hi> to Juſtifie himſelf in a long Letter, wherein he complains heavily of this Undutiful <hi>Attempt</hi> up<g ref="char:EOLhyphen"/>on his <hi>Undoubted Right,</hi> lamenting that the <hi>Clergy</hi> were not ſatisfied to Invade his <hi>Prerogative</hi> in other matters, without <hi>Intruding</hi> even into his <hi>Chappel-Royal.</hi>
+            </p>
+            <p n="20">
+               <label>
+                  <hi>Sect</hi> 21.</label> So that 'tis manifeſt that the Pretended <hi>Loyalty</hi> of Superſtitious and Bigotted Papiſts, eſpe<g ref="char:EOLhyphen"/>cially Clergy-men, is appropriated to the Court of <hi>Rome,</hi> and not to the Crown of <hi>England:</hi> And if you will conſider that you in <hi>Ireland,</hi> who believe the <hi>Supremacy</hi> and <hi>Infallibility</hi> of the <hi>Pope.</hi> (when<g ref="char:EOLhyphen"/>ever the Pope <hi>Excommunicates</hi> the <hi>King,</hi> as <hi>Paul</hi> III. did <hi>Henry</hi> VIII. and <hi>Pius</hi> V. did Queen <hi>Elizabeth)</hi> muſt either renounce your <hi>Allegiance</hi> or your <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and turn either <hi>Proteſtants</hi> or <hi>Rebels;</hi> and if you will likewiſe conſider Father <hi>John Talbot</hi> the Jeſuit's Aſſertion, <hi>That it is to no purpoſe to Exact an Oath of Allegiance from Papiſts, becauſe 'tis lawful in Point of Conſcience to break that Oath the next hour, provided you follow the Doctrine of Probabilities, and underſtand that any one Doctor is of that Opinion:</hi> You will per<g ref="char:EOLhyphen"/>haps be of my Sentiment, <hi>That 'tis difficult for one that is Govern'd by a Popiſh Prieſt, to be a Good Subject to a Proteſtant King.</hi> And this may lead you to <hi>Exa<g ref="char:EOLhyphen"/>mine,</hi> and conſequently to <hi>Deteſt,</hi> and ſhake off a Religion ſo Inconſiſtent with True Loyalty.</p>
+            <p n="21">
+               <label>
+                  <hi>Sect</hi> 22.</label> My next Enquiry ſhould be, Whether you are good <hi>Chriſtians,</hi> or can be ſo, whilſt you are wrap'd up in ſo much <hi>Superſtition</hi> and <hi>Ignorance:</hi> Pray conſider whether your Religion does not con<g ref="char:EOLhyphen"/>ſiſt too much in <hi>Outward Shew</hi> and <hi>Pageantry,</hi> with<g ref="char:EOLhyphen"/>out the <hi>Power of Godlineſs</hi> in your Hearts: How for<g ref="char:EOLhyphen"/>mal and vain is your <hi>Devotion,</hi> that is ſatisfied with the <hi>Number</hi> of <hi>Prayers,</hi> without regarding the <hi>Words</hi> or underſtanding the <hi>Meaning,</hi> and without any Intention or Attention of the Mind? How hypo<g ref="char:EOLhyphen"/>critical
+<pb n="8" facs="tcp:204451:6"/> are your <hi>Mortifications,</hi> whilſt they are per<g ref="char:EOLhyphen"/>form'd ſometimes by <hi>Deputy,</hi> and ſometimes in a Trivial and Ridiculous <hi>Pennance?</hi> Is it not a Mocke<g ref="char:EOLhyphen"/>ry to pretend to <hi>Faſt</hi> upon the beſt <hi>Fiſh Fruit, White<g ref="char:EOLhyphen"/>meats,</hi> and <hi>Wine,</hi> that can be got? In a word, Do not you place your <hi>Piety</hi> in being of a <hi>Party,</hi> and make <hi>
+                  <g ref="char:V">Ʋ</g>nity and Communion with the Pope,</hi> the Sum and Subſtance of <hi>Chriſtian Religion,</hi> and expect your Salvation from meer Chimerical Notions, ſuch as the <hi>Treaſures of the Church,</hi> the <hi>Indulgence</hi> of the Pope, the <hi>Abſolution</hi> of the Prieſt, and the <hi>Purifi<g ref="char:EOLhyphen"/>cations</hi> of Purgatory, with very little regard to <hi>Ho<g ref="char:EOLhyphen"/>lineſs, without which no Man ſhall ſee the Face of GOD?</hi>
+            </p>
+            <p n="22">
+               <hi>Sect</hi> 23. And hence it is that the two Crying Sins of the Nation, <hi>Theft</hi> and <hi>Perjury,</hi> which are rarely found amongſt <hi>Proteſtants,</hi> are ſo common among you, that the one is become an <hi>Epithet,</hi> and the other <hi>Proverbially Scandalous:</hi> The <hi>Proteſtants</hi> know, they muſt make Reſtitution, if poſſible, or b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Damn'd; and therefore few of that Communion, but notorious profligate Reprobates, will either <hi>For<g ref="char:EOLhyphen"/>ſwear</hi> or <hi>Steal.</hi> But you are not under this <hi>Awe,</hi> ha<g ref="char:EOLhyphen"/>ving too often ſome Sophiſtical Pretence or other to Juſtifie or Excuſe you; and at worſt fancying that you may be abſolved at an eaſie Rate, either by Confeſſion and ſlight Pennance, or if that fails, by a few turns in Purgatory.</p>
+            <p n="23">
+               <label>
+                  <hi>Sect</hi> 24.</label> And thus have many by theſe Looſe Notions been deluded to the <hi>Gallows,</hi> and more to <hi>Hell,</hi> who had never been thus miſerably cheated of their Lives and their Souls, if they had been uſed to Sound Doctrine and good Sermons, or ſuffered to Read the holy Scriptures, and other good Books, that might better inſtruct them.</p>
+            <p n="24">
+               <label>
+                  <hi>Sect</hi> 25.</label> But the Prieſt will ſay, He does warn you of theſe Vices, and preach Reſtitution; but Experience has convinc'd us, that whatever he ſays on that Subject, is very <hi>Cold</hi> and Ineffectual, and that he does countenance the contrary Practice; ſince all is diſcover'd to him in <hi>Confeſſion,</hi> and yet no
+<pb n="9" facs="tcp:204451:6"/> 
+               <hi>Reſtitution</hi> is made but to ſpecial <hi>Friends,</hi> or ſuch whom the Prieſt is afraid of: And ſince without Reſtitution he gives Abſolution, and adminiſters the Sacrament not only to <hi>Petty Thieves,</hi> but to <hi>Pro<g ref="char:EOLhyphen"/>claim'd Tories</hi> and <hi>Rapparees,</hi> who were to Rob and Murther again the next Day.</p>
+            <p n="25">
+               <label>
+                  <hi>Sect</hi> 26.</label> For <hi>GOD</hi>'s ſake, Gentlemen, do not ſuf<g ref="char:EOLhyphen"/>fer your ſelves to be thus Impos'd upon: Pray look back a little, and enquire, Was it not the Prieſts that were the Original of <hi>Rapparees?</hi> Did not they enjoyn every one upon pain of Excommunication, to bring a <hi>Rapary,</hi> or Half Pike, in his hand to Maſs? Did not they Head the Rabble, and in many Places at Noon-Day with Bag-Pipes and other Circumſtan<g ref="char:EOLhyphen"/>ces of Jollity and Inſolence plunder their Prote<g ref="char:EOLhyphen"/>ſtant Neighbours? Were there ever more <hi>Perjuries,</hi> or greater <hi>Villanies</hi> committed in ſo ſhort a time, than whilſt the <hi>Popiſh Clergy</hi> had the Aſcendant? Or would your greateſt Enemies deſire more, than Li<g ref="char:EOLhyphen"/>berty to <hi>Copy afttr your Example,</hi> and to ſerve you <hi>Now,</hi> as barbarouſly as you ſerved Them <hi>Then?</hi>
+            </p>
+            <p n="26">
+               <label>
+                  <hi>Sect</hi> 27.</label> In ſhort, How can you pretend to be <hi>Good Chriſtians,</hi> and to obey the Will of <hi>GOD,</hi> whilſt you are ſo ignorant what it is, and know ſo little of it? You are utter Strangers to the <hi>Holy Scriptures,</hi> which are the Word of GOD; and even the Pray<g ref="char:EOLhyphen"/>ers and Offices of your Church, are in a Language you do not underſtand: Scarce one in a Tbouſand of you can give a Tolerable Account of the Chri<g ref="char:EOLhyphen"/>ſtian Faith, or the Hope that is in him, but is con<g ref="char:EOLhyphen"/>tented with a Jingle, <hi>To believe as the Church believes,</hi> which is, <hi>He knows not what;</hi> and in effect, he thinks that a blind Obedience to the <hi>Avarice and Ambition of the Clergy,</hi> will ſerve him inſtead of the Practice of <hi>Chriſtian Vertues.</hi>
+            </p>
+            <p n="27">
+               <label>
+                  <hi>Sect</hi> 28.</label> And Gentlemen, Since it is not to Up<g ref="char:EOLhyphen"/>braid, much leſs to Scandalize you, that I have in<g ref="char:EOLhyphen"/>ſiſted upon this <hi>Ungrateful Theam,</hi> but purely for your Service, to open your Eyes, and Undeceive you. That you may plainly ſee you want Help and Ad<g ref="char:EOLhyphen"/>vice:
+<pb n="10" facs="tcp:204451:7"/> And ſince that Chyrurgion is more your Friend that <hi>Searches</hi> your Wound to the bottom, that he may cure it throughly, than he that <hi>Skins</hi> it over, and lets it feſter and break out again; you will excuſe me, if for the ſame Reaſon, and for your <hi>Thorough Cure,</hi> I put you upon the Enquiry, Whether you are not defective in your Language, Obnoxious to the Laws, and Incapable of Prefer<g ref="char:EOLhyphen"/>ment? And whether too many of you are not Slovenly in your Habit and in your Houſes, Un<g ref="char:EOLhyphen"/>juſt in your Actions, even to Perjuries and Forge<g ref="char:EOLhyphen"/>ries innumerable, ſhamefully countenanc'd and favour'd by ſome of your Courts of Juſtice in the late Reign; Barbarous in your Deſigns to Extirpate the Proteſtants, Poor in your Fortunes, Low in your Reputations, and by your <hi>Ingratitude</hi> and <hi>Cru<g ref="char:EOLhyphen"/>elty</hi> Nakedly Expoſed to the Juſt Reſentments of a <hi>Provok'd People,</hi> to whom GOD Almighty has Gi<g ref="char:EOLhyphen"/>ven, and (notwithſtanding frequent Rebellions) Continued the <hi>Dominion</hi> over you.</p>
+            <p n="28">
+               <label>
+                  <hi>Sect</hi> 29.</label> And is there any way to Extricate you out of all theſe Misfortunes, but a Total Converſion and Conformity to the Laws, Language, Habit, Manners, and Religion of <hi>England?</hi>
+            </p>
+            <p n="29">
+               <label>
+                  <hi>Sect</hi> 30.</label> And would not your Miſerable Coun<g ref="char:EOLhyphen"/>try-men, now begging and ſtarving in <hi>France,</hi> be over-joy'd to Return to their <hi>Native Soyl</hi> upon theſe Terms? How gladly would they <hi>conform,</hi> if they might be Reſtor'd! Why then ſhould you loſe the Preſent Opportunity of making your ſelves and your Poſterity happy, by your Conformity to Things that are in Themſelves ſo Excellent, and ſo much for your Advantage both as to Body and Soul?</p>
+            <p n="30">
+               <label>
+                  <hi>Sect</hi> 31.</label> I will not deny but that I preſs this the more Earneſtly upon you, becauſe I think you are Originally <hi>Engliſh,</hi> and of <hi>Brittiſh</hi> Extraction: To prove this, I ſhall not wholly Rely on the Te<g ref="char:EOLhyphen"/>ſtimonies of <hi>Tacitus, Polybius,</hi> and many other Anci<g ref="char:EOLhyphen"/>ent Hiſtorians and Geographers, who affirm, <hi>That</hi>
+               <pb n="11" facs="tcp:204451:7"/> 
+               <hi>Ireland was Peopled from Britain;</hi> but ſhall demonſtrate it from the Nature of the thing, which could not be otherwiſe: For before the Uſe of the Compaſs was diſcover'd, they could make no other than <hi>Coaſting Voyages</hi> in ſight of the Shoar. Hence 'tis that all Countries were firſt Peopled by their next Neigh<g ref="char:EOLhyphen"/>bours; <hi>Greece</hi> from <hi>Aſia, Italy</hi> from <hi>Greece, France</hi> from <hi>Italy, England</hi> from <hi>France,</hi> and <hi>Ireland</hi> from <hi>Great Britain:</hi> So that what the Old Iriſh Chroni<g ref="char:EOLhyphen"/>cles report to the contrary, is not only <hi>Falſe,</hi> but utterly <hi>Impoſſible.</hi>
+            </p>
+            <p n="32">32. To this I might add many of the <hi>Cuſtoms</hi> of the Ancient <hi>Brittons</hi> retain'd in <hi>Ireland</hi> to our own days; your Bows and Arrows, Bolyes, Mantles, Glibs, Bards, Druids, and even your Gavelkind, are derived thence. But what need we ſay any more, but that your Character is <hi>Saxon,</hi> and your Language Originally <hi>Welſh?</hi>
+            </p>
+            <p n="31">
+               <hi>Sect</hi> 33. Beſides, Two Thirds of thoſe that are called <hi>Iriſh</hi> here, are beyond Controverſie of <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Extraction, and the Progeny of the Firſt Con<g ref="char:EOLhyphen"/>querours, or of ſuch as came over afterwards from <hi>England</hi> to ſupport them: Of this ſort in <hi>Munſier,</hi> we have the <hi>Barryes, Courcyes, Skiddyes, Golds, Coppingers, Galways, Lumbards, Heas. Hodnets, Cogans, Lacyes, Roches, Rices, Mi<g ref="char:EOLhyphen"/>aghs, Purcels, Sarsfeilds, Powers, Bar<g ref="char:EOLhyphen"/>rets, Fitzmaurice, Condons,</hi> &amp;c. In <hi>Co<g ref="char:EOLhyphen"/>naught, Burks, Briminghams, Dillons, Browns, Frenches, Kirevans, Bodkins, Linches, Athys,</hi> &amp;c. In <hi>Leinſter, But<g ref="char:EOLhyphen"/>lers, Fitz-Geralds, Nettervills, Plunkets, Apl<g ref="char:EOLhyphen"/>mers, Preſtons, Wogans, Barnwells, Cu<g ref="char:EOLhyphen"/>ſacks, Flemings, Nugents, Huſſyes, Nangles, Keatings, Talbots, Sherlocks, Euſtaces,</hi> &amp;c. And in <hi>Vlſter, Savages, Dowdals, Ruſſels, Peppards,</hi> &amp;c, And many more. And when I have added, That there have been ſo many Croſs-Marriages between the old <hi>Engliſh</hi> and old <hi>Iriſh,</hi> that there is ſcarce a Man of any Note, but has of
+<pb n="12" facs="tcp:204451:8"/> the Old or New <hi>Engliſh Blood</hi> in his Veins, I have ſaid enough to convince the World that you are of <hi>Engliſh Extraction.</hi>
+            </p>
+            <p n="32">
+               <label>
+                  <hi>Sect</hi> 34.</label> And pray Gentlemen, conſider what greater Honour can you deſire, than to be account<g ref="char:EOLhyphen"/>ed <hi>Engliſh?</hi> Since they are a People Famous all the World over, as well for <hi>Arts</hi> and <hi>Arms,</hi> as for <hi>Hone<g ref="char:EOLhyphen"/>ſty, Induſtry, Courage,</hi> and <hi>Good Nature;</hi> They have for a long time held the <hi>Ballance</hi> of <hi>Europe,</hi> and more than once preſerved the Liberty of the <hi>Chriſtian World</hi> from the Attempts of an <hi>Univerſal Monarchy;</hi> and which is yet more, when they have ſubdued <hi>Others,</hi> they have at the ſame time Generouſly Con<g ref="char:EOLhyphen"/>quer'd <hi>Themſelves,</hi> and have poſt-pon'd their <hi>Reſent<g ref="char:EOLhyphen"/>ments</hi> to their <hi>Compaſſion</hi> and their <hi>Juſtice,</hi> elſe there had been no occaſion for this Monitory Epiſtle at this time.</p>
+            <p n="33">
+               <hi>S.</hi> 35. As for the <hi>Laws,</hi> one ought to refer you to the Flouriſhing Condition of <hi>England,</hi> that is Govern'd by them: They cannot but be <hi>Excellent,</hi> ſince they are derived from the Law of GOD, the Laws of Nature and Reaſon, Common Cuſtoms, which long Experience has found to be Uſeful, and made into Law, and Acts of Parliament made by your ſelves, or your Anceſtors, and as occaſion requir'd, adapted to Our or Their Neceſſities. Nor can you deny but that the Adminiſtration of theſe Laws is Juſt and Equal, without regard to <hi>Shiboleth,</hi> or <hi>Siboleth;</hi> and not as it was in your Time, when few but thoſe of your <hi>Party</hi> could have any Succeſs in the plaineſt Caſes: In ſhort. I appeal to your own Conſciences, whether you do not live much better under the Government of the <hi>Laws of Eng<g ref="char:EOLhyphen"/>land,</hi> than ever your Anceſtors did under their <hi>Lords</hi> and <hi>Brehoos.</hi>
+            </p>
+            <p n="34">
+               <label>
+                  <hi>Sect</hi> 36.</label> As for your Language, it is Originally <hi>Welſh,</hi> to which there are added ſome Words of <hi>La<g ref="char:EOLhyphen"/>tin,</hi> and ſome of <hi>Engliſh;</hi> ſo that you are deceiv'd in believing that <hi>Iriſh is a pure Original Language.</hi> But whatever it be, why you ſhould not forſake it for
+<pb n="13" facs="tcp:204451:8"/> the <hi>Engliſh Tongue,</hi> which is much more Copious, and which is by Law the <hi>Language</hi> of this King<g ref="char:EOLhyphen"/>dom? No Reaſon can be aſſigned but <hi>Prieſtcraft,</hi> to keep you in <hi>Ignorance,</hi> and to uphold a <hi>Feud</hi> between us. Otherwiſe, by uſing the Engliſh Tongue, one is better qualified for the <hi>Caſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> the <hi>Courts of Juſtice,</hi> and the <hi>Market,</hi> more capable of <hi>Preſerment,</hi> and of <hi>Charity,</hi> and of the <hi>Benefit of Clergy,</hi> and in a word, more fit for the beſt <hi>Company</hi> and <hi>Converſation:</hi> So that it ſeems to me they are Bewitched who live under a Government, and Refuſe to Learn the <hi>Le<g ref="char:EOLhyphen"/>gal</hi> and Received Language thereof.</p>
+            <p n="35">
+               <label>
+                  <hi>Sect</hi> 37.</label> As to the <hi>Habit</hi> and <hi>Manners</hi> of the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> you cannot deny but the former is <hi>Neat, Tight,</hi> and <hi>Clean;</hi> and the other, <hi>Correct</hi> and <hi>Genteel;</hi> and therefore as many of you as come to any Under<g ref="char:EOLhyphen"/>ſtanding or Fortune in the World, do imitate us in both, but with this difference, That ſuch <hi>Iriſh</hi> as turn <hi>Proteſtants</hi> conform entirely to our <hi>Habit</hi> and <hi>Mannors;</hi> whereas thoſe who continue <hi>Papiſts,</hi> are generally more <hi>Slovenly</hi> and <hi>Unfaſhionable,</hi> more <hi>Slat<g ref="char:EOLhyphen"/>tering</hi> in their Cloaths, and more <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in their Houſes, But ſure there will be no difficulty to per<g ref="char:EOLhyphen"/>ſwade your Conformity to us in theſe Points, ſince all we deſire of you is, but to be <hi>Neat</hi> and <hi>Clean</hi> a<g ref="char:EOLhyphen"/>bout your Perſons, and in your Houſes; and to be <hi>Civil, Genteel</hi> and <hi>Orderly,</hi> in your Converſation; to which in Truth you are Naturally inclin'd.</p>
+            <p n="36">
+               <hi>Sect</hi> 38. Nor can I ſee why you ſhould ſcruple to Conform to the <hi>Religion</hi> of the <hi>Church of England,</hi> ſince we believe all that our Bleſſed <hi>Saviour</hi> has <hi>Re<g ref="char:EOLhyphen"/>veal'd,</hi> or the <hi>Apoſtles Taught;</hi> all that the holy <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> Contain, or the <hi>Primitive Chriſtians</hi> Believ'd, or the firſt Four <hi>General Councils</hi> Approv'd,</p>
+            <p n="37">
+               <label>
+                  <hi>Sect</hi> 39</label> And accordingly, The Symbols of our Faith are the <hi>Apoſtolical,</hi> the <hi>Athanaſian,</hi> and <hi>Nicene</hi> Creeds; <hi>And after this Manner which you call Herefie, do we Worſhip the GOD of our Fathers.</hi>
+            </p>
+            <p n="38">
+               <label>
+                  <hi>Sect</hi> 40.</label> And ſuitable hereunto, the Precepts of our Religion are <hi>Holy,</hi> Exhorting to all ſorts of <hi>Ver<g ref="char:EOLhyphen"/>tue,</hi>
+               <pb n="14" facs="tcp:204451:9"/> and forbidding all manner of <hi>Vice:</hi> It enjoyns <hi>Good Works</hi> without the Foppery of <hi>Merit,</hi> and with<g ref="char:EOLhyphen"/>out Derogating from the Value of our Saviour's <hi>Sufferings</hi> and <hi>Mediation:</hi> It admits of no Repen<g ref="char:EOLhyphen"/>tance but what produces a <hi>Reformation</hi> of Life and Manners; and it indiſpenſibly Aſſerts, <hi>That without Holineſs no Man ſhall be ſaved.</hi>
+            </p>
+            <p n="39">
+               <label>
+                  <hi>Sect</hi> 41.</label> Hence you may perceive which is the <hi>Ancient Religion,</hi> ſince we preſs you to believe no more but the Doctrines of <hi>Primitive Christianity,</hi> which were from the Beginning, and which your Church dare not deny, and which indeed you be<g ref="char:EOLhyphen"/>lieve already, whilſt the <hi>Church of Rome</hi> obliges you to believe all the <hi>New</hi> Articles ſhe has <hi>Coyn'd,</hi> or ſhall hereafter <hi>Coyn</hi> for her own <hi>Profit</hi> and <hi>Advantage.</hi>
+            </p>
+            <p n="40">
+               <label>
+                  <hi>Sect</hi> 42.</label> We that perceive her <hi>Deſigns,</hi> and are deliver'd from her <hi>Tyranny,</hi> and converted from her <hi>Errors,</hi> being deſirous, according to the Divine Pre<g ref="char:EOLhyphen"/>cept, to <hi>ſtrengthen our Brethren,</hi> Call out to you with a loud Voice, and fore-warn you of the <hi>Danger:</hi> We beg you to conſider whether you are not over-laden with <hi>Superſtition</hi> and <hi>Idolatry,</hi> and whether the <hi>Popiſh Clergy</hi> do not make <hi>Tools</hi> of you, to Enrich and Ag<g ref="char:EOLhyphen"/>grandize themſelves; we offer to Demonſtrate the <hi>Cheat,</hi> and to ſhew it to you in divers Inſtances, and we offer to prove by the <hi>Word of GOD,</hi> That your Church has Apoſtatiz'd from her <hi>Primitive Purity</hi> in many Articles both of <hi>Doctrine</hi> and <hi>Practice.</hi>
+            </p>
+            <p n="41">
+               <hi>Sest.</hi> 43. Now ſuppoſing the Prieſt were a <hi>Decei<g ref="char:EOLhyphen"/>ver,</hi> and had a mind to Impoſe upon you, (as we ſay he has) what part could he Act but as he does? He would exhort you to ſtop your Ears, and ſhut your Eyes, and not to hear or read a word againſt the <hi>Church;</hi> Probably he would try to Frighten you, and tell you, <hi>That he that Doubts is Damn'd:</hi> 'Tis certain he would adviſe you to an Implicit Faith, blind-fold to believe as the Church (that is, the <note n="*" place="margin">
+                  <hi>By the word Church, we underſtand its Head the Pope, Greg, Val.</hi> 34.</note> Pope) believes; to be Liberal and Charitable to the <hi>Clergy,</hi> and to truſt <hi>him</hi> to
+<pb n="15" facs="tcp:204451:9"/> direct you right to Heaven, thô perhaps he does not know one ſtep of the way thither himſelf.</p>
+            <p n="42">
+               <label>
+                  <hi>Sect</hi> 44.</label> And will not you reply to ſuch a one, That ſince GOD has given you <hi>Reaſon</hi> and <hi>Eyeſight,</hi> and has Publiſh'd the <hi>Holy Scriptures</hi> for your Dire<g ref="char:EOLhyphen"/>ction, and has commanded you to <hi>Try all things, that you may hold fast</hi> 
+               <note place="margin">2 Theſ. 5. 21.</note> 
+               <hi>ohat which is Good;</hi> that therefore you deſire to be inform'd in the <hi>Way</hi> you are to go, that you may examine whether it be <hi>Right</hi> or <hi>Wrong.</hi> And ſince our daily Prayer <hi>To ſtrengthen our Faith,</hi> ſhews there are degrees of it, it muſt needs follow, That ſuch Scruples in Faith, as put Men upon En<g ref="char:EOLhyphen"/>quiry <hi>Why they believe This or That,</hi> are ſo far from being <hi>Damnable,</hi> that they are ſubvervient to a great Duty of <hi>Searching the Scriptures,</hi> in order to increaſe our <hi>Faith,</hi> which will certainly grow <hi>stronger,</hi> ac<g ref="char:EOLhyphen"/>cording to the Satisfaction we receive of its being well Founded.</p>
+            <p n="43">
+               <label>
+                  <hi>Sect</hi> 45.</label> Beſides, This falſe Principle is the Pa<g ref="char:EOLhyphen"/>rent of Ignorance and Obſtinacy, and if generally received, would hinder all <hi>Converſion,</hi> and all Diſco<g ref="char:EOLhyphen"/>veries of <hi>Truth;</hi> for if it be Damnable to <hi>Doubt,</hi> it is Damnable to <hi>Examine:</hi> 'Tis true, 'tis Damnable to Doubt the <hi>Veracity of GOD;</hi> but 'tis Sophiſtical to argue from hence that 'tis Damnable to Doubt Indefinitely, or particularly to Doubt whether <hi>This</hi> or <hi>That</hi> be the meaning of what GOD hath ſaid. It is indeed a ſure way of keeping your Proſelytes, if you can perſwade them to be ſo <hi>Stubborn</hi> as not to hearken to any Body elſe, or ſo <hi>Bigotted</hi> as not to ſubmit to <hi>Reaſon,</hi> when they do hear it: If my Country-men are of this ſort, 'tis in vain to Reaſon with them; they are not <hi>ſui Juris,</hi> any more than an Idiot under the Conduct of a Guardian, but are in that caſe become helpleſs, abandon'd to <hi>Spiritual Slavery,</hi> and in great danger of <hi>Eternal Destruction;</hi> and one has no more to ſay, but <hi>Populus qui vult <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="44">
+               <pb n="16" facs="tcp:204451:10"/> 
+               <hi>Sect.</hi> 46. But becauſe I have a better Opinion of them, and that they will be ſo wiſe to aſſert their Natural Right of <hi>Uſing their Reaſon,</hi> both in Exami<g ref="char:EOLhyphen"/>ning and Chooſing; I proceed to ask, If I ſhould tell you, <hi>That Popery is a Meer Artifice to En<g ref="char:EOLhyphen"/>rich and Aggrandize the Clergie at the Expence of the People; That it has been your Ruine, and drawn you into many Rebellions and Forfeitures, and has prompted you to many Barbarities against your Friends and Country-Men; That it has Ecclipſed your Underſtandings, Debauch'd your Morals, Impoveriſh'd your Families, ſophisticated your Re<g ref="char:EOLhyphen"/>ligion, Degenerated your Manners, and in a Word, has render'd you ſo stupid, that thô you are the greateſt Slaves to the moſt Arbitrary Tyrants that ever were in the World, yet you tamely acquieſee, and ſuffer your ſelves to be In<g ref="char:EOLhyphen"/>ſulted and Abus'd, and thankfully Kiſs the Spiritual Rod that Chaſtiſes you.</hi>
+            </p>
+            <p n="45">
+               <label>
+                  <hi>Sect</hi> 47.</label> I ſay, When I tell you this, and the Prieſt tells you the contrary, the Queſtion will be, Which of us ſhould a wiſe Men believe? Not the Prieſt ſure, 1. Becauſe generally he is Vicious and Ignorant, and knows little or nothing of the mat<g ref="char:EOLhyphen"/>ter: But 2dly and chiefly. Becauſe he ſpeaks for his <hi>Profit,</hi> his <hi>All</hi> is at ſtake; <hi>Superſtition</hi> is his great <hi>Diana,</hi> and if the People forſake <hi>That,</hi> he is undone On the contrary, I have no other <hi>End</hi> or <hi>Profit</hi> by your Converſion, but the Satisfaction of being an Inſtrument of <hi>Doing You Good,</hi> and making you hap<g ref="char:EOLhyphen"/>py, ſo that you cannot ſuſpect my <hi>Sincerity:</hi> How<g ref="char:EOLhyphen"/>ever, I don't deſire to be Truſted; <hi>Tbey who do Evil, hate the Light,</hi> but I deſire to be brought to the Teſt: I adviſe you to Examine and Conſider what I ſay, and I refer my Self to your own Experience and Obſervation, <hi>for Matters of Fact;</hi> and to the Scrip<g ref="char:EOLhyphen"/>tures, Primitive Ages and Creeds, for <hi>Matters of Faith.</hi>
+            </p>
+            <p n="46">
+               <label>
+                  <hi>Sect</hi> 48.</label> If I ſay, <hi>That your Church, neglecting Piety, makes it her Buſineſs to ſurport a Faction, and en<g ref="char:EOLhyphen"/>rich a Party,</hi> Don't I prove it, if I ſhew that ſhe En<g ref="char:EOLhyphen"/>courages <hi>Superſtition,</hi> by equalling the Number of
+<pb n="17" facs="tcp:204451:10"/> the Saints ſhe worſhips, to thoſe of the Heathen Gods, and like the Pagans aſſigning to one the Guardianſhip of Geeſe, to another the Protection of Cattel, and making a Third Tutelar of a Pariſh, and a Fourth Patron of a Kingdom: And by uſing fantaſtical Ceremonies, more like the <hi>Orgies</hi> of <hi>Bac<g ref="char:EOLhyphen"/>chus,</hi> than the Plain Rites of the Primitive Church<g ref="char:punc">▪</g> And if I ſhew that ſhe encourages Rebellion, by the Bulls of <hi>Gregory</hi> XIII. and <hi>Clement</hi> VIII. and thoſe of later date by <hi>Urban</hi> VIII. <hi>anno</hi> 1643. Granting a full Pardon of all Sins to the Iriſh Rebels, and en<g ref="char:EOLhyphen"/>couraging them to continue ſo; and that ſhe makes Diſobedience to the <hi>Church</hi> a more hainous Crime than Diſobedience to the Commands of GOD; as the Prieſt found who was condemned for having a <hi>Wife,</hi> but was abſolved when he proved her his <hi>Concubine;</hi> and as many of you find, who more eaſily get Abſolution for <hi>Stealing</hi> the Cow, than for <hi>Eating</hi> the Fleſh. And if I ſhew that ſhe pre<g ref="char:EOLhyphen"/>fers the <hi>Treaſures</hi> of the Church before the <hi>Merits</hi> of her Saviour, which ſhe cannot eſteem <hi>Infinite,</hi> if the Former is made to ſupply the Defects of the Latter, in Delivering Souls out of <hi>Purgatory.</hi>
+            </p>
+            <p n="47">
+               <label>
+                  <hi>Sect</hi> 49.</label> And if to this you will add what Arch<g ref="char:EOLhyphen"/>biſhop <hi>Spotſwood</hi> has recorded. <hi>That the Scots had a Diſpenſation to take the Oath of Supremacy, provided they thought otherwiſe in their Hearts, and kept in Communion with the Pope:</hi> And if you will reflect on the Extra<g ref="char:EOLhyphen"/>vagance of <hi>Diſpenſations</hi> and <hi>Indulgences,</hi> and the Doctrines of <hi>Equivocation</hi> and <hi>Probability.</hi> you will eaſily perceive that <hi>Popery</hi> is very diffe<g ref="char:EOLhyphen"/>rent from the <hi>Purity</hi> and Simplicity of the <hi>Goſpel,</hi> and advances Notions offenſive to the Integrity of an <hi>Honeſt Man.</hi>
+            </p>
+            <p n="48">
+               <label>
+                  <hi>Sect</hi> 50.</label> It is enough to make any wiſe Man Suſpect and Examine <hi>Popery,</hi> when he ſees that almoſt every <hi>Article</hi> we differ in, contributes ſome<g ref="char:EOLhyphen"/>thing to the <hi>Honour</hi> or <hi>Profit</hi> of the Clergy; but if beſides this, we can prove theſe Articles <hi>New</hi> or <hi>Falſe,</hi> ſure then we have gain'd our Point.</p>
+            <p n="49">
+               <pb n="18" facs="tcp:204451:11"/> 
+               <hi>Sect.</hi> 51. will try what I can do within the Narrow Compaſs of a <hi>Letter,</hi> not thinking it for your Service to be more Prolix, ſince few have the Leiſure or Patience to read <hi>Volumes:</hi> And thoſe who are Inquiſitive after Truth, may be far<g ref="char:EOLhyphen"/>ther Informed in any Point they doubt of, by ſome of our Learned Divines, who are more than ever to be found in every Dioceſs of the Kingdom.</p>
+            <p n="50">
+               <label>
+                  <hi>Sect</hi> 52.</label> But firſt let us Examine the <hi>Foundation</hi> of your Religion, as differing from ours, and try what Grounds you have for that <hi>Supremacy</hi> and <hi>Infallibility</hi> you aſcribe to the <hi>Pope;</hi> for if that ſinks, the whole Fabrick will fall; <hi>Bellarmine</hi> thinks the <hi>whole of Chriſtianity</hi> depends upon it; and therefore ſure it ſhould be well (I think <hi>Infalli<g ref="char:EOLhyphen"/>bly)</hi> proved; but inſtead of that, we are put off with <hi>Precarious</hi> Aſſumptions, <hi>ſtrain'd</hi> Argu<g ref="char:EOLhyphen"/>ments, groundleſs <hi>Inferences,</hi> Looſe <hi>Conjectures,</hi> and <hi>Sophiſtical</hi> Concluſions.</p>
+            <p n="51">
+               <label>
+                  <hi>Sect</hi> 53.</label> Your Grand Argument is, That to pre<g ref="char:EOLhyphen"/>ſerve Unity, and prevent Confuſion, <hi>A Papal Vicar</hi> and <hi>Infallible Iudge</hi> was appointed by our <hi>Saviour</hi> to determine Controverſies, and Govern the <hi>Church;</hi> which is very abſurd, not only be<g ref="char:EOLhyphen"/>cauſe our <hi>Saviour</hi> propheſied againſt this Unity, and that <hi>There ſhould be Schiſms and Diviſions in the Church;</hi> and becauſe there were many <hi>Hereſies</hi> in the <hi>Primitive</hi> Times, which muſt have been ſoon ſuppreſt, if they had <hi>Then</hi> known of this <hi>Supre<g ref="char:EOLhyphen"/>macy:</hi> But becauſe it is little leſs than Blaſphemy to aſſert, That an <hi>Infinite Wiſdom</hi> ſhould Inſti<g ref="char:EOLhyphen"/>tute <hi>Means</hi> ſo improper and ineffectual for Attain<g ref="char:EOLhyphen"/>ing the <hi>End</hi> deſign'd; ſince the <hi>Perſon</hi> and <hi>Power</hi> of this <hi>Infallible Iudge,</hi> is not at all, or ſo obſcurely deſcribed in Scripture, that there is more difference, even amongſt Papiſts, about this <hi>Previous Article,</hi> than about all the reſt.</p>
+            <p n="52">
+               <label>
+                  <hi>Sect</hi> 54.</label> But to proceed, Since you are to make out your Title to the <hi>Iuriſdiction</hi> you claim, I deſire your <hi>Prieſt</hi> to prove, if he can, Firſt, that <hi>Chriſt</hi> ap<g ref="char:EOLhyphen"/>pointed
+<pb n="19" facs="tcp:204451:11"/> any one <hi>Vicar</hi> or <hi>Pope</hi> to ſucceed him in the <hi>Supream Government</hi> of the Church, or that a Viſible Governour or Head of the <hi>Vniverſal Church,</hi> is neceſſary or practicable: On the con<g ref="char:EOLhyphen"/>trary, our Saviour aſſures us, <hi>His Kingdom is not of this World,</hi> and exhorted his Followers <hi>not to ſtrive for Preheminence as Worldlings do:</hi> And <hi>Luk.</hi> IX. 46. He rebuked their Reaſonings <hi>who ſhould be greateſt.</hi>
+            </p>
+            <p n="53">
+               <label>
+                  <hi>Sect</hi> 55.</label> Secondly, Let him prove that S. <hi>Peter</hi> was the <hi>Vicar</hi> or <hi>Pope</hi> ſo appointed by our <hi>Savi<g ref="char:EOLhyphen"/>our.</hi> On the contrary, the Commiſſion was to all the Apoſtles, <hi>John</hi> XX. 23. <hi>He ſaid unto THEM, Whoſo<g ref="char:EOLhyphen"/>ever Sins YE remit, they are remitted unto them,</hi> &amp;c. Matth. XVIII. 18. <hi>Whatſoever YE ſhall bind on Earth, ſhall be bound in Heaven.</hi> Matth. XXVIII. 19. <hi>Go YE therefore and teach all Nations.</hi> And S. <hi>Paul</hi> tells us, That <hi>to HIM was committed the Care of ALL THE CH<g ref="char:V">Ʋ</g>RCHES,</hi> That <hi>HE was not behind the very Chief<g ref="char:EOLhyphen"/>eſt Apoſtles;</hi> and <hi>HE withſtood</hi> Peter <hi>to his Face, be<g ref="char:EOLhyphen"/>cauſe he was to be blamed;</hi> and I think that the ſingle Text in St. <hi>Paul</hi>'s Epiſtle to the <hi>Galatians,</hi> Chap. II. verſ. 9. is of it ſelf ſufficient to confute this preten<g ref="char:EOLhyphen"/>ded <hi>Supremacy:</hi> It runs thus: <hi>And when James, Ce<g ref="char:EOLhyphen"/>phas</hi> (that is, <hi>Peter) and John, who ſeemed to be Pillars, perceived the Grace that was given to me</hi> (Paul) <hi>they gave to me</hi> (Paul) <hi>and Barnabas the right Hand of Fellowſhip; that we ſhould go unto the Heathen</hi> (Romans, Grecians, <hi>&amp;c.) and they unto the Circumciſion</hi> (the Jews,)</p>
+            <p n="54">
+               <label>
+                  <hi>Sect</hi> 56.</label> Thirdly, Let him prove that <hi>Peter</hi>'s <hi>Power,</hi> whatever it were, was to go in <hi>Succeſ<g ref="char:EOLhyphen"/>ſion?</hi> On the contrary, <hi>Peter</hi>'s Authority was <hi>Per<g ref="char:EOLhyphen"/>ſonal<g ref="char:punc">▪</g>
+               </hi> as his Gifts and Graces for the Exerciſe of it were; He was filled with the <hi>Holy Ghoſt,</hi> and ſo was Qualified to be <hi>Chriſt's Vicar:</hi> No body will ſay ſo of thoſe many Atheiſts, Hereticks, Blaſphe<g ref="char:EOLhyphen"/>mers, Sodomites and Murtherers, that have pre<g ref="char:EOLhyphen"/>tended to be his Succeſſors.</p>
+            <p n="55">
+               <label>
+                  <hi>Sect</hi> 57.</label> If the <hi>Supremacy</hi> was to ſurvive <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> why ſhould it not deſcend to St. <hi>John</hi> the Be<g ref="char:EOLhyphen"/>loved Apoſtle, who out-lived <hi>Peter</hi> many years, ra<g ref="char:EOLhyphen"/>ther
+<pb n="20" facs="tcp:204451:12"/> than to the <hi>Bishop</hi> of <hi>Rome?</hi> What Title has that <hi>Bishop</hi> to it? Did our <hi>Saviour</hi> order it ſo? Or who elſe did?</p>
+            <p n="56">
+               <label>
+                  <hi>Sect</hi> 58.</label> Let your Prieſt ſhew that <hi>Peter</hi> was Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> and who made him ſo: On the con<g ref="char:EOLhyphen"/>trary, being an <hi>Apoſtle,</hi> he could not properly be a <hi>Bishop</hi> of any particular <hi>See,</hi> any more than the <hi>King</hi> can be ſaid to be <hi>Governour</hi> of <hi>Limrick.</hi> Beſides, He was the <hi>Apoſtle of the Circum<g ref="char:EOLhyphen"/>ciſion,</hi> or of the Jews, and ſo could not be <hi>Bi<g ref="char:EOLhyphen"/>shop</hi> of <hi>Rome;</hi> nor can you prove he was there at all: At leaſt the Popiſh Tradition of his being there 25 years, is certainly <hi>Falſe;</hi> nor have you more than a doubtful <hi>Hiſtorical</hi> Teſtimony of his being ever at <hi>Rome,</hi> which is not ſufficient for ſuch an Important Point, upon which the whole of <hi>Po<g ref="char:EOLhyphen"/>pery</hi> does depend, and to which you require a <hi>Divine Infallible</hi> Faith.</p>
+            <p n="57">
+               <label>
+                  <hi>Sect</hi> 59.</label> Beſides, Your Learned Men do not yet agree, Whether <hi>Peter</hi> alone was Biſhop of <hi>Rome,</hi> or <hi>Peter</hi> and <hi>Paul</hi> together, or who were the Imme<g ref="char:EOLhyphen"/>diate Succeſſors to <hi>Peter;</hi> ſo Uncertain is their Hi<g ref="char:EOLhyphen"/>ſtory or <hi>Tradition</hi> in this matter; and if you add your received Doctrine. That want of <hi>Intention</hi> in the Prieſt or <hi>Bishop,</hi> makes a <hi>Nullity</hi> in the Sa<g ref="char:EOLhyphen"/>crament of <hi>Order,</hi> you cannot be ſure that <hi>Innocent</hi> XII. is a Biſhop at all, much leſs Succeſſor to St. <hi>Peter.</hi>
+            </p>
+            <p n="58">
+               <label>
+                  <hi>Sect</hi> 60.</label> Thus is the Divine and Infallible <hi>Cer<g ref="char:EOLhyphen"/>tainty</hi> you boaſt to have of your Religion, as di<g ref="char:EOLhyphen"/>ſtinct from ours, built on a <hi>Supremacy</hi> which you ſee is ſupported by very <hi>Improbable,</hi> if not <hi>Falſe</hi> Aſſertions: But 'tis good enough for you, who are not ſuffered to Examine the <hi>Grounds</hi> and <hi>Reaſons</hi> of your <hi>Faith,</hi> but take your Religion <hi>upon Truſt,</hi> and venture your <hi>Salvation</hi> upon the <hi>Opinion</hi> of others, whoſe Buſineſs it is to make a hand of you, and who therefore keep you in the <hi>Dark,</hi> that they may have the better Opportunity to <hi>pick your Pockets.</hi>
+            </p>
+            <p n="59">
+               <pb n="21" facs="tcp:204451:12"/> 
+               <hi>Sect.</hi> 61. But that which demonſtrates Popery to be a <hi>Politick Contrivance</hi> is, That after ſuch confident Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences to <hi>Supremacy</hi> and <hi>Infallibility,</hi> they are not agreed where it reſides. Their Arguments and Proofs tend to make the Goverment of the Church <hi>Monarchical</hi> in the Perſon of the <hi>Pope,</hi> whom they pretend to be the <hi>Vicar</hi> of <hi>Ieſus Chriſt,</hi> which infers <hi>Infallibility</hi> (without which he were a dan<g ref="char:EOLhyphen"/>gerous <hi>Center of Vnity.)</hi> But wiſely knowing that many of the <hi>Popes</hi> had but a very bad <hi>Faith,</hi> if one might judge it by their <hi>Works</hi> and that they were ſo <hi>Fallible</hi> and <hi>Foolish</hi> to contradict one another, and ſometimes the Truth, even <hi>Ex Cathe<g ref="char:EOLhyphen"/>dra;</hi> they have dexterouſly turn'd about, and Debaſed the Government of the Church into a <hi>Republick,</hi> by ſubjecting the <hi>Pope</hi> to a <hi>General Council,</hi> and making his Holineſs <hi>Vicar of the Church,</hi> inſtead of <hi>Vicar of Chriſt,</hi> and by pla<g ref="char:EOLhyphen"/>cing <hi>Infallibility</hi> in the <hi>Pope and Council.</hi>
+            </p>
+            <p n="60">
+               <label>
+                  <hi>Sect</hi> 62.</label> Nor are they of <hi>One</hi> Opinion in this <hi>Main Point;</hi> the Dioceſs of <hi>Rome,</hi> and the <hi>Gallican Church,</hi> have very different Notions of this matter, which has been defined both ways in their <hi>General Councils,</hi> which makes them ſhy of Declaring their Opinion in this knotty Caſe. And if you ask your <hi>Prieſt,</hi> he will hardly give you a plain Anſwer to it: For firſt, There has been no <hi>General Coun<g ref="char:EOLhyphen"/>cil</hi> ſince the Apoſtles time, nor can be, unleſs the <hi>Chriſtian World</hi> were under one <hi>Emperour,</hi> or ſome other means could be found to Summon <hi>All Nations,</hi> and and to have their Repreſentatives at the Aſſembly. Thoſe which are reputed <hi>General Councils,</hi> are improperly called ſo; not that the <hi>Whole Church</hi> was there, even by <hi>Repreſenta<g ref="char:EOLhyphen"/>tion,</hi> but becauſe their Decrees being <hi>Orthodox,</hi> were <hi>Generally</hi> Received. What then ſhall we ſay to the Council of <hi>Trent,</hi> where only ſome of the <hi>Pope's</hi> Servants, and a very few Prelates from three or four Nations, Decreed New Articles of Faith? Is it not abſurd to call it a <hi>General Coun<g ref="char:EOLhyphen"/>cil,</hi>
+               <pb n="22" facs="tcp:204451:13"/> when <hi>England, Ireland / Scotland / Den<g ref="char:EOLunhyphen"/>mark / Sweden / Muſcovy</hi> / moſt part of <hi>Ger<g ref="char:EOLhyphen"/>many</hi> / and the <hi>Low-Countreys</hi> / the <hi>Greek</hi> and <hi>Armeman</hi> Churches, and many others, nei<g ref="char:EOLhyphen"/>ther had a Repreſentative there, nor could ſafely ſend one.</p>
+            <p n="61">
+               <label>
+                  <hi>Sect</hi> 63.</label> But ſecondly, They are ſhy of fixing the <hi>Infallibility</hi> in <hi>Pope</hi> and <hi>Council,</hi> becauſe it will be enough to confound that Poſition, to ſhew <hi>That a Pope and Council have Erred,</hi> or that they have <hi>Contradicted</hi> one another, for in that Caſe one muſt be in the wrong.</p>
+            <p n="62">
+               <label>
+                  <hi>Sect</hi> 64.</label> And I conceive your <hi>Loyalty</hi> will not ſuffer you to deny that <hi>Pope Innocent</hi> III. and the <hi>Council</hi> of <hi>Lateran</hi> Erred when they Decre<g ref="char:EOLhyphen"/>ed, <hi>That Princes who did not Purge their Kingdoms of Hereſie, ſhould be Depoſed,</hi> for this gives the <hi>Pope</hi> Power over <hi>Princes</hi> in <hi>Temporals,</hi> which ſurely you will not approve of, thô he put it in Practice very ſmartly againſt our King <hi>John,</hi> and the Emperor <hi>Otho</hi> the Fourth,</p>
+            <p n="63">
+               <label>
+                  <hi>Sect</hi> 65.</label> Certainly <hi>Pope Liberius</hi> and the Council of <hi>Sirmium</hi> Err'd, when they decreed <hi>Arrianiſm,</hi> for the Council of <hi>Nice</hi> has decreed (and all Chriſtians <hi>I</hi> hope believe) the contrary. I ſuppoſe the <hi>Pope</hi> and <hi>Council</hi> of <hi>Lateran</hi> Er<g ref="char:EOLhyphen"/>red in advancing the <hi>Pope</hi> above the Council; if not, the <hi>Popes</hi> and General Councils of <hi>Con<g ref="char:EOLhyphen"/>ſtance</hi> and <hi>Baſil</hi> Erred in putting the Council above the Pope, and ſo did the <hi>French Church. Anno,</hi> 1682.</p>
+            <p n="64">
+               <label>
+                  <hi>Sect</hi> 66.</label> Without doubt either the Second <hi>Ni<g ref="char:EOLhyphen"/>cene Council</hi> Erred in decreeing the Worſhip of Images; or the General Councils of <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi> and <hi>Francfort</hi> (at which laſt there were 300 Prelates and the Popes Legates) Erred in Decree<g ref="char:EOLhyphen"/>ing the contrary: Surely Pope <hi>Vigilius</hi> Erred in Confirming the Fifth General Council, or elſe he Err'd afterward in Condemning it; and ſo did Pope <hi>Adrian</hi> and the Sixth General Council, when
+<pb n="23" facs="tcp:204451:13"/> they defined <hi>that Marriage was Diſolv'd by Hereſie.</hi> or elſe the Council of <hi>Trent</hi> Err'd in Defining the contrary.</p>
+            <p n="65">
+               <label>
+                  <hi>Sect</hi> 67.</label> But 'tis not my Buſineſs to Examine which was in the Wrong: One of them was, ſince they Decreed contrary to each other, and that is enough to prove, <hi>That a Pope and General Council are not Infallible</hi> / for they have actually Err'd and no Argument like matter of Fact. And ſure the <hi>French</hi> are of this Opinion, elſe why did they refuſe to receive <hi>the Council of Trent?</hi> Nay, Our Forefathers were of this Opinion: For the Cannons of General Councils were not of Force in <hi>England,</hi> but ſuch as the Government were pleaſed to Receive, and thereby give them the Sanction of Laws.</p>
+            <p n="66">
+               <label>
+                  <hi>Sect</hi> 68.</label> But there is yet a matter more Artificial to be conſidered; and that is, that ſome <hi>General Councils</hi> are in part <hi>Approved</hi> / and in part <hi>Re<g ref="char:EOLhyphen"/>probated:</hi> As if they ſhould ſay, <hi>The Council was aſ<g ref="char:EOLhyphen"/>ſiſted part of the way, and then left in the lurch.</hi> If they think ſuch a <hi>General Council</hi> was not <hi>Divinely In<g ref="char:EOLhyphen"/>ſpir'd,</hi> how dare they impoſe any of its Decrees on the Church, as matter of Faith <hi>Divinely Reveal'd?</hi> If the Council was <hi>Divinely Inſpir'd,</hi> why do they Reprobate or Reject any of its Decrees? Is not this plainly to make uſe of <hi>what ſerves their pur<g ref="char:EOLhyphen"/>poſe</hi> / and to diſcountenance, how Unjuſtly ſoever, every thing that <hi>makes againſt their Vſurpations.</hi>
+            </p>
+            <p n="67">
+               <label>
+                  <hi>Sect</hi> 69.</label> But 'tis yet worſe, if the Canons of any Council, have been Rejected by one Pope, and afterwards approved by another. For this were <hi>To hold thè faith in reſpect of Times, as well as Perſons,</hi> and to Inſinuate that the ſame Doctrine that is <hi>falſe</hi> to <hi>day,</hi> may be <hi>True</hi> to <hi>Morrow;</hi> and yet 'tis cer<g ref="char:EOLhyphen"/>tain that 102 Canons of The Council of <hi>Trullo</hi> (or <hi>Conſtantinople)</hi> were Rejected by Pope <hi>Ser<g ref="char:EOLhyphen"/>gius</hi> 1. And afterwards, Many of (them and par<g ref="char:EOLhyphen"/>ticularly the 82d. Canon) were Received by Pope <hi>Adrian,</hi> 1. and the 7th Synod, and now allowed by the <hi>Romiſh Church.</hi>
+            </p>
+            <p n="68">
+               <pb n="24" facs="tcp:204451:14"/> 
+               <hi>Sect.</hi> 70. But I promis'd to ſhew, That the Arti<g ref="char:EOLunhyphen"/>cles wherein you differ from us, are either <hi>Falſe</hi> or <hi>New</hi> / or <hi>Both</hi> / I ſhall endeavour to perform it as fully as my deſigned Brevity will permit. An<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt for <hi>Tranſubſtantiation</hi> / it was not thought o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Primitive Times, till the Raptures and Flo<g ref="char:EOLhyphen"/>rid Expreſſions of ſome of the <hi>Fathers</hi> / gave Handle to ſucceeding Ages to advance this <hi>Mon<g ref="char:EOLunhyphen"/>ſtrous Doctrine</hi> / which was made an Article o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith in the Council of <hi>Lateran</hi> / <hi>Anno.</hi> 1215. An<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 'tis upon the ſame ſcore, that ſome have had th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Confidence to quote even <hi>Proteſtant Doctors</hi> fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Tenent who expreſly wrote againſt it, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could not ſuſpect that any Body would be ſo <hi>Vn<g ref="char:EOLunhyphen"/>fair</hi> to raiſe Conſequences from looſe and Meta<g ref="char:EOLhyphen"/>phorical Expreſſions, directly <hi>contrary</hi> to the Po<g ref="char:EOLhyphen"/>ſition they aſſerted.</p>
+            <p n="69">
+               <label>
+                  <hi>Sect</hi> 71.</label> 'Tis needleſs to ſay 'tis <hi>Falſe,</hi> becauſe your Senſes demonſtrate it to be ſo: It involves a thouſand <hi>Contradictions,</hi> and conſequently ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many <hi>Lyes;</hi> 'Tis hard to think you ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe it, becauſe your Senſes contradict wha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you pretend to believe: Will any Man ſay tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Bleſſed <hi>Saviour,</hi> when he Inſtituted this Sacra<g ref="char:EOLhyphen"/>ment did eat <hi>Himſelf,</hi> or put his <hi>Whole Body</hi> into his <hi>Mouth?</hi> The Apoſtles ſaw he <hi>did not,</hi> an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therefore could not believe he <hi>did:</hi> One might as well ſay, that the <hi>Houſe</hi> may run out at the <hi>Win<g ref="char:EOLhyphen"/>dows;</hi> or as you do, That S <hi>Denis</hi> being Behead<g ref="char:EOLhyphen"/>ed carried his <hi>Head</hi> in his <hi>Hands;</hi> as to ſay, Tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <hi>Saviour,</hi> who was a <hi>Man</hi> (like us in every thing but Sin) could eat <hi>Himſelf,</hi> or be devour'd by the <hi>Apoſtles,</hi> whilſt he ſat well, and ſound, and <hi>Entire</hi> / among them at the Table.</p>
+            <p n="70">
+               <label>
+                  <hi>Sect</hi> 72.</label> In ſhort, The End of Arguments is to drive your Opponent to an <hi>Abſurdity;</hi> but he that believes <hi>Tranſubſtantiation</hi> admits of all <hi>Ab<g ref="char:EOLhyphen"/>ſurdities</hi> in the World, ſo that there is no Arguing with him. He is Reſolute in adhering to the Sen<g ref="char:EOLhyphen"/>timents of the <hi>Prieſt,</hi> (which he calls the <hi>Church)</hi>
+               <pb n="25" facs="tcp:204451:14"/> right or wrong; and if he tells you that <hi>Black</hi> is <hi>White,</hi> that <hi>Vertue</hi> is <hi>Vice,</hi> or as Pope <hi>Zachary</hi> did the Biſhop of <hi>Saltsburg,</hi> that there are no <hi>Antipodes,</hi> 'tis to no purpſe to offer Reaſon or Demonſtration to the contrary.</p>
+            <p n="71">
+               <label>
+                  <hi>Sect</hi> 73</label> So that 'tis not <hi>Faith,</hi> but <hi>Negligence, Fear</hi> / or <hi>Intereſt</hi> / that makes Men ſwallow theſe Impious <hi>Contradictions,</hi> That a Man <hi>ſix foot</hi> high is contain'd in a Wafer an <hi>Inch</hi> broad, and may be devour'd by a little Mouſe at one Meal: That what you know and ſee to be <hi>Bread,</hi> ſhould be really and corporally <hi>Fleſh</hi> and <hi>Bones:</hi> That the ſame Man ſhould Corporally and Individually be in Ten Thouſand Places at once, without Cir<g ref="char:EOLhyphen"/>cumſcription which is in effect to deny the Hu<g ref="char:EOLhyphen"/>manity of <hi>Chriſt.</hi>
+            </p>
+            <p n="72">
+               <label>
+                  <hi>Sect</hi> 74.</label> And all this without any <hi>Ground</hi> or <hi>Neceſſity:</hi> For the ſame <hi>IESVS</hi> that ſaid, <hi>This is my Body</hi> / ſaid he was a <hi>Vine</hi> / a <hi>Door<g ref="char:punc">▪</g>
+               </hi> &amp;c. and that the <hi>Cup</hi> was his <hi>Blood:</hi> But becauſe common Reaſon obliges us to take words in a <hi>Metaphorical</hi> ſenſe, when there is plain <hi>Abſurdi<g ref="char:EOLhyphen"/>ty</hi> and Contradiction in the <hi>Literal</hi> Expreſſion, therefore no Man was ever ſo ridiculous as to think that our <hi>Saviour</hi> was a <hi>Vine,</hi> or a <hi>Door,</hi> literally and really; and yet the Authority is as expreſs, and as ſtrong, as it is for a Bit of <hi>Bread</hi> to be his <hi>Body.</hi>
+            </p>
+            <p n="73">
+               <label>
+                  <hi>Sect</hi> 75.</label> To conclude this Point: There is no Compariſon between the Evidence of our <hi>Senſes</hi> and of our <hi>Reaſon</hi> / The former Give more <hi>Cer<g ref="char:EOLhyphen"/>tainty,</hi> and are leſs Subject to Deluſion, Fallacy or Miſtake, and therefore ſhould Govern the latter, when both are Inconſiſtent. And ſince nothing can reach the <hi>Vnderſtanding</hi> but by the <hi>Sences</hi> How can one form and believe any <hi>Conception</hi> of a thing different from the <hi>Sence</hi> he has of it; It follows hence that thô one may be per<g ref="char:EOLhyphen"/>ſwaded by Argument or Authority to believe Myſteries <hi>above his Capacity,</hi> and which he does not Underſtand or Comprehend, when he knows
+<pb n="26" facs="tcp:204451:15"/> nothing to the contrary; yet 'tis impoſſible that a Man can believe any thing <hi>contrary</hi> to his <hi>Know<g ref="char:EOLhyphen"/>ledge,</hi> and to what his Senſes perceive. 'Tis probable an Ignorant fellow may be perſwaded that a Clock can Tell the Hour of the Day, tho' he cannot conceive how an Inanimate Thing ſhould be capable of ſo doing; but the beſt Sophiſter in the World Would never perſwade that Man, (how Ignorant ſoever,) that the <hi>Clock</hi> is a <hi>Horſe</hi> / or that a Bit of <hi>Bread</hi> is a <hi>Man</hi> / becauſe he ſees and knows the contrary.</p>
+            <p n="74">
+               <label>
+                  <hi>Sect</hi> 76.</label> In like manner when the Prieſt has ſaid all he can for Tranſubſtantiation, what does he more than vye weak and ſophiſtical Arguments that at beſt are but <hi>Probable,</hi> againſt that <hi>Certainty</hi> and Demonſtration my Senſes give me of his be<g ref="char:EOLhyphen"/>ing miſtaken; He cannot be more <hi>ſure</hi> of any thing, than I am of the falſity of that Doctrine. And indeed, one would think they do not believe it themſelves, unleſs they would venture on a <hi>Poyſon'd Wafer;</hi> which notwithſtanding their pretence of Tranſubſtantiation, was fatal to Pope <hi>Victor</hi> 3. and will prove ſo to all that dare try the Experiment,</p>
+            <p n="75">
+               <label>
+                  <hi>Sect</hi> 77.</label> As for <hi>Purgatory</hi> (which to this mi<g ref="char:EOLhyphen"/>nute the Papiſts can give no Account of nor tell where to place it; and which cannot be a Traditon of the Univerſal Church, ſince the <hi>Greek</hi> Church, which is as Antient as the <hi>Roman,</hi> never believ'd it) 'Tis a <hi>Novelty</hi> directly againſt Scripture, which aſſures us, That <hi>where the Tree falls there it lies, Eccl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> XI. 3. It was introduced Authoritatively of late years, and calculated meerly for getting Money<g ref="char:punc">▪</g> You may find the deſcription of it in the Sixth Book of <hi>Virgil</hi>'s <hi>Aeneads,</hi> and in Mr. <hi>Sullevan'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Hiſtory of <hi>Ireland.</hi> But it ſeems there are mor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Purgatories</hi> than one, or elſe no Cheat is to<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> groſs to put upon the <hi>Iriſh;</hi> for they were told<g ref="char:punc">▪</g> and did believe for ſome Ages, that S. <hi>Patrick</hi> ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Purgatory at <hi>Loghdirge</hi> in the County o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:204451:15"/> 
+               <hi>Donegall,</hi> until the Lords Juſtices undeceiv'd them, by digging open that Cave, <hi>Anno.</hi> 1630.</p>
+            <p n="76">
+               <label>
+                  <hi>Sect</hi> 78.</label> This Doctrine of <hi>Purgatory,</hi> which Father <hi>Barns</hi> confeſſes, cannot be deduced from Scriptures, Fathers, or Councils, is Blaſphemous, in repreſenting the Merciful GOD as a <hi>Cruel</hi> Spirit, delighting in our Miſery, and in derogat<g ref="char:EOLhyphen"/>ing from the Value of our Bleſſed <hi>Saviour</hi>'s Merits, Mediation and Paſſion, as if they were not <hi>ſufficient</hi> to cleanſe us from our Sins upon ſeri<g ref="char:EOLhyphen"/>ous Repentance without ſuffering Pains in <hi>Purga<g ref="char:EOLhyphen"/>tory.</hi>
+            </p>
+            <p n="77">
+               <label>
+                  <hi>Sect</hi> 79.</label> But either this Purgatory Pain is Indi<g ref="char:EOLhyphen"/>ſpenſible or not; if Diſpenſible, ſure our Saviour's Paſſion and Mediation is ſufficient; for as St. <hi>John</hi> ſays, 1 <hi>Joh.</hi> I. 7, <hi>The Blood of Chriſt cleanſeth us from all Sin.</hi> If it be not Diſpenſible what ſignify the <hi>Maſſes</hi> and Prayers of the <hi>Prieſt?</hi>
+            </p>
+            <p n="78">
+               <label>
+                  <hi>Sect</hi> 80.</label> Beſides, If their <hi>Maſſes</hi> and Prayers have any Vertue, why are they ſo Uncharitable to ſell them for Money, as if none but the <hi>Rich</hi> were deſign'd to be Saved, and the <hi>Poor</hi> were to have no Benefit of this <hi>Priviledge</hi>
+            </p>
+            <p n="79">
+               <label>
+                  <hi>Sect</hi> 81.</label> As for <hi>Praying to Saints</hi> (which they juſtifie by comparing it to <hi>Courtiers</hi> here, whom every Man ſtrives to make his Friends, that they may promote his Petition to the <hi>Prince.)</hi> It is plain <hi>giving the Glory of</hi> GOD <hi>to another,</hi> ſince <hi>Re<g ref="char:EOLhyphen"/>ligious Prayer</hi> is Undoubtedly a part of <hi>Divine Worship,</hi> and ought not to be made, but to <hi>Him that ſearches the Heart;</hi> nor can it be heard in ſo many diſtant Places at once by any thing but the Omnipotent and <hi>Omniſcient</hi> GOD: For Abra<g ref="char:EOLhyphen"/>ham <hi>is Ignorant of us, and</hi> Iſrael <hi>knows us not, Iſa.</hi> LXIII. 16. And accordingly the Primitive Fathers argued the Divinity of the <hi>Son<g ref="char:punc">▪</g>
+               </hi> and <hi>Holy Ghoſt</hi> againſt the <hi>Arrians</hi> and <hi>Macedoni<g ref="char:EOLhyphen"/>ans,</hi> by the Practiſe of the Catholick Church to <hi>pray to them;</hi> which had been a very Impertinent Argument, if the <hi>Church</hi> at that time had uſed to <hi>Pray to Saints.</hi>
+            </p>
+            <p n="80">
+               <pb n="28" facs="tcp:204451:16"/> 
+               <hi>Sect.</hi> 82. Beſides, GOD has not <hi>Infirmities</hi> and <hi>Paſſions</hi> / as <hi>Princes</hi> have, to be wrought on by <hi>Favourites;</hi> nor is any Man denied Acceſs to GOD, as in the Courts of <hi>Princes:</hi> But on the contrary, every one is <hi>Invited</hi> and Encourged to Addreſs to <hi>Him</hi> / who has appointed a <hi>Mediator</hi> for us, even the Bleſſed <hi>JESUS, who maketh Interceſ<g ref="char:EOLhyphen"/>ſion for us, and what we ask in his Name he will give us,</hi> Rom. VIII. 34.</p>
+            <p n="81">
+               <hi>Sect</hi> 83. Beſides, What <hi>Certainty</hi> have you (and nothing leſs will ſuffice) That ſome of Thoſe you Invocate as <hi>Saints,</hi> are now in Heaven? <hi>Thomas Becket</hi> / whom you call a <hi>Martyr</hi> / others think to be an obſtinate Rebel, and a <hi>Traytor;</hi> and yet your Oblations at his Shrine in <hi>Canterbury,</hi> were twenty times as much, as to the <hi>Bleſſed Virgin</hi> / and an hundred times more than to our Saviour <hi>Chriſt.</hi>
+            </p>
+            <p n="82">
+               <label>
+                  <hi>Sect</hi> 84.</label> Moreover this Doctrine was not known in the Church in the three firſt Centuries: There are no footſteps of it, ſays <hi>Cardinal Perron,</hi> either in the Scriptures, or the Fathers, before the firſt four General Councils. It took its riſe <hi>Anno</hi> 364. from an Expreſſion of <hi>Gregory Nazianzen,</hi> which deſigned no ſuch Innovation: Why then will you not avoid the danger and Scandal of This Novel<g ref="char:EOLhyphen"/>ty, ſince there is none in pretermitting the Saints, and Praying to the Bleſſed <hi>JESUS,</hi> who you are ſure is in Heaven, and both can and will hear you.</p>
+            <p n="83">
+               <label>
+                  <hi>Sect</hi> 85</label> Worſhiping of <hi>Images</hi> and Relicks is another <hi>Novelty,</hi> introduc'd by the ſecond <hi>Nicene Council</hi> and condemned by the Council<g ref="char:punc">▪</g> of <hi>Frankford:</hi> Your own <hi>Polido<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Virgil,</hi> aſſures us the Antient Fathers condemned it for fear of Idolatry, <hi>Omnes fere veteres ſancti Patres damnabunt Imaginum adorationem propter metum<g ref="char:punc">▪</g> Idolatriae.</hi> It is alſo directly contrary to the <hi>Second Command<g ref="char:EOLhyphen"/>ment,</hi> which therefore you leave out of your Catechiſms, and to keep up the number divide the Tenth Commandment into Two: Nothing
+<pb n="29" facs="tcp:204451:16"/> can be more odd than to poject an Image of a thing <hi>Incomprehenſible;</hi> but to fall down and worſhip the Workmanſhip of your own hands, is certainly as groſs Idolatry as any of the Heathens ever committed, in worſhiping Leeks and Onyons: Nor will the fanciful diſtinction of <hi>Latria</hi> and <hi>Du<g ref="char:EOLhyphen"/>leia, Relative</hi> and <hi>Poſitive,</hi> mend the matter; ſince it cannot be conceiv'd that the Heathen Philo<g ref="char:EOLhyphen"/>ſophers could take thoſe <hi>Inammate</hi> Creatures for <hi>Gods:</hi> And if thoſe Diſtinctions were material, yet they can avail the <hi>common People</hi> but little, ſince they do not underſtand them, and conſe<g ref="char:EOLhyphen"/>quently fall into <hi>Idolatry</hi> every Day.</p>
+            <p n="84">
+               <hi>Sect</hi> 86. To worſhip Carrion, or a dead Carcaſe, is an Unnatural Impiety; but 'tis yet worſe when one is deceiv'd in the Object, as were thoſe of <hi>Ge<g ref="char:EOLhyphen"/>neva,</hi> who for a long time worſhip'd that for part of St. <hi>Anthony</hi>'s Arm, which was afterwards found to be <hi>the Bone of a Stag:</hi> And thoſe in the Le<g ref="char:EOLhyphen"/>gend of St. <hi>Martin,</hi> who worſhip'd a <hi>Damn'd Soul</hi> with high Devotion, miſtaking him for a <hi>Saint</hi> in Heaven; And thoſe meant by the Anci<g ref="char:EOLhyphen"/>ent <hi>Doctor,</hi> when he ſaid, <hi>Multorum Corpora Ado<g ref="char:EOLhyphen"/>rantur in Terris quorum Animae Cruciantur in Inferis.</hi>
+            </p>
+            <p n="85">
+               <hi>Scect.</hi> 87. Nor is it leſs ſtupidity to adore a piece of Wood, as you do the <hi>Croſs;</hi> to ſwear by it, and to pray to it, as you do on <hi>Good Friday,</hi> to <hi>ſtrengthen the Righteous, and pardon the Guilty:</hi> Hence 'tis that the Legate's <hi>Croſs</hi> precedes the Emperor's <hi>Sword,</hi> becauſe <hi>Divine Honour</hi> is paid to the former. In a word, There is much <hi>Danger,</hi> and great <hi>Offence</hi> in this Practice, and therefore you ought to lay aſide this pernicious <hi>Novelty.</hi>
+            </p>
+            <p n="86">
+               <label>
+                  <hi>Sect</hi> 88.</label> As for the <hi>Communion,</hi> 'Tis beyond doubt that your Religion is <hi>New</hi> in that Particular of Denying the Cup to the Layety; for 'tis cer<g ref="char:EOLhyphen"/>tain, and you dare not deny, <hi>That it was not ſo from the beginning;</hi> for our Saviour inſtituted the Sacrament in both kinds. He commanded us to <hi>Drink</hi> of the Cup, which no Man can properly be
+<pb n="30" facs="tcp:204451:17"/> ſaid to do, when he <hi>Eats</hi> the Wafer, even ſuppo<g ref="char:EOLhyphen"/>ſing whole <hi>Chriſt</hi> to be contain'd therein. But to what purpoſe ſhall we argue longer on this point, ſince the very <hi>Council</hi> that prohibits it, confeſſes that the <hi>Inſtitution of Chriſt.</hi> and the Practice of the <hi>Primitive Church,</hi> was to the contrary.</p>
+            <p n="87">
+               <label>
+                  <hi>Sect</hi> 89.</label> How weak is your Anſwer, <hi>That the Church thought it convenient?</hi> As if the Bleſſed JESUS were not a better Judge of Conveniencies than the <hi>Pope</hi> and <hi>Cardinals?</hi> Pray Gentlemen conſider who has the <hi>Antient Religion,</hi> and who is likely to be in the right on't: We follow the Order and Inſtitution of <hi>JESUS CHRIST,</hi> and you do quite contrary, in obedience to the <hi>Pope,</hi> and to <hi>Reaſon of State.</hi>
+            </p>
+            <p n="88">
+               <label>
+                  <hi>Sect</hi> 90.</label> 'Tis juſt ſo in the next Article of the <hi>Marriage of Prieſts;</hi> GOD Almighty Inſtituted Marriage, and you ſay made it a <hi>Sacrament:</hi> The Apoſtles adviſe it to all who can't contain: St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> himſelf was a Married Man, and the Scripture mentions his <hi>Wive's Mother:</hi> Your Apoſtle St. <hi>Pa<g ref="char:EOLhyphen"/>trick</hi> was the Son of <hi>Potitus</hi> a Prieſt, and the Pri<g ref="char:EOLhyphen"/>mitive Clergy knew no Prohibition in this caſe: On the contrary, many of them were Married: And St. <hi>Paul</hi> allows a Biſhop to be <hi>the Husband of one Wife:</hi> How then can you pretend that your Re<g ref="char:EOLhyphen"/>ligion is <hi>Antient</hi> in this particular?</p>
+            <p n="89">
+               <label>
+                  <hi>Sect</hi> 91.</label> The Truth is, When the Foundations of <hi>Eccleſiaſtical Empire</hi> were laid in <hi>Cozening</hi> and <hi>Deceiving</hi> the People, it was neceſſary to for<g ref="char:EOLhyphen"/>bid Marriage to <hi>Thoſe</hi> who were to be the <hi>Mana<g ref="char:EOLhyphen"/>gers</hi> and Inſtruments of the <hi>Cheat,</hi> that they might be the more zealous therein, when they had no <hi>Wives</hi> or <hi>Children</hi> to ſuffer by the <hi>Fraud.</hi>
+            </p>
+            <p n="90">
+               <label>
+                  <hi>Sect</hi> 92.</label> Proceed we next to <hi>Auricular Con<g ref="char:EOLhyphen"/>feſſion<g ref="char:punc">▪</g>
+               </hi> and we ſhall find it a <hi>New</hi> Trick to diſco<g ref="char:EOLhyphen"/>ver Secrets, and add value to the Prieſt. Nothing is more groundleſs than that Practiſe, as 'tis us'd in the <hi>Roman</hi> Church; ſince neither CHRIST or<g ref="char:EOLhyphen"/>dain'd it, nor the <hi>Ancient Church us'd it / </hi> as <hi>Eraſ<g ref="char:EOLhyphen"/>mus</hi>
+               <pb n="31" facs="tcp:204451:17"/> confeſſes, 'Tis one thing to conſult your Pa<g ref="char:EOLhyphen"/>ſtor in difficult Caſes, and another thing to tell him all that you do, If the Confeſſion were <hi>Publick,</hi> it might give <hi>Reparation</hi> to the Party injur'd, it might purge the Aſſembly from the <hi>Scandal</hi> of ſuch a Member; the ſhame of it might contribute to his <hi>Mortification</hi> and Repentance: But this private <hi>Shrift</hi> to one that is bound to conceal it<g ref="char:punc">▪</g> can have no other effect but to give the Prieſt <hi>Intelligence,</hi> that he may be the better able to compaſs his own <hi>Deſigns,</hi> and thoſe of his Church.</p>
+            <p n="91">
+               <label>
+                  <hi>Sect</hi> 93.</label> Laſtly, Your Religion is <hi>New,</hi> Up<g ref="char:EOLhyphen"/>ſtart and Erronious, in forbidding the People to read <hi>Scripture,</hi> for fear (ſay you) they ſhould im<g ref="char:EOLhyphen"/>bibe <hi>Hereſie;</hi> which is juſt ſuch weak Reaſoning as his, that Refuſed to give his Child Meat, for fear he ſhould be <hi>choak'd,</hi> and ſo ſuffer'd him to be <hi>ſtarv'd.</hi>
+            </p>
+            <p n="92">
+               <label>
+                  <hi>Sect</hi> 94.</label> But if this were a Reaſon, it would ex<g ref="char:EOLhyphen"/>tend to forbid Scripture to the <hi>Clergy,</hi> ſince they have been the Broachers of moſt Hereſies; <hi>Mar<g ref="char:EOLhyphen"/>cion, Paulus Samoſatenus, Arius, Eunomius, Apollina<g ref="char:EOLhyphen"/>ris, Macedonius, Photinus, Neſtorius, Eutiches, Pelagius, Novatius, Donatus,</hi> and many more Notorious He<g ref="char:EOLhyphen"/>reticks, having been in <hi>Holy Orders.</hi>
+            </p>
+            <p n="93">
+               <label>
+                  <hi>Sect</hi> 95.</label> Has not the Spirit of GOD publiſhed the <hi>Scriptures</hi> for the Uſe of all Chriſtians? Is not the Reading of them enjoyn'd by GOD Almighty, that <hi>we may come to</hi> 
+               <note place="margin">2 Tim. 2. 4.</note> 
+               <hi>the Knowledge of the Truth?</hi> Are not thoſe commended that <hi>Search the</hi> 
+               <note place="margin">John 20. 31.</note> 
+               <hi>Scriptures?</hi> Is it not in them that we have <hi>Eternal Life?</hi> Is there not in the <note place="margin">John 5. 39. Rom. 10. 17. &amp; 15, 4. Heb. 5. 14. 2 Tim. 3. 15.</note> 
+               <hi>Scriptures</hi> as well <hi>Milk</hi> for <hi>Babes,</hi> as <hi>Meat</hi> for ſtrong Men? And are not they <hi>able to make us wiſe to Salvation?</hi> How then dare you to contradict the <hi>Poſitive</hi> Commands of of GOD, and the Deſign of the Holy GHOST, upon <hi>vain</hi> Fears, and <hi>frivolous</hi> Pretences, meerly
+<pb n="32" facs="tcp:204451:18"/> to keep the People in <hi>Ignorance</hi> / that they may be the more eaſily <hi>Enſlav'd</hi> and Impos'd upon.</p>
+            <p n="94">
+               <label>
+                  <hi>Sect</hi> 96.</label> I have not room to enlarge on the ma<g ref="char:EOLhyphen"/>ny other <hi>Novelties</hi> you have introduced into <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> / and therefore ſhall only give a ſhort hint of your declaring the <hi>Apocrppha</hi> to be <hi>Canonical</hi> by the Council of <hi>Trent,</hi> which was otherwiſe eſteem'd by <hi>Origen, Athanaſius, Epiphanius,</hi> and the Ancient Fathers; and of your <hi>Seven</hi> Sacraments, which were firſt defin'd ſo in the Council of <hi>Florence, An<g ref="char:EOLhyphen"/>no</hi> 1438. and of your ſcandalous Practice of <hi>In<g ref="char:EOLhyphen"/>dulgences</hi> /, introduced by <hi>Clement</hi> VI. <hi>Anno</hi> 1350. whereby you have <hi>Traffiqu'd</hi> for the <hi>Grace of GOD</hi> / and Erected a <hi>Market</hi> for the <hi>Remiſſion of Sins:</hi> And of your Doctrine of <hi>Merit</hi> and <hi>Supererrogation</hi> / invented to raiſe an <hi>Imagina<g ref="char:EOLhyphen"/>ry Treaſure</hi> in the Church / to bring in <hi>Real Treaſure</hi> to the <hi>Church-men,</hi> directly contrary to every Man's <hi>Experience</hi> / and the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures</hi> / which aſſures us, that at the beſt <hi>We are but Unprofitab'e Servants.</hi> And of your Prayers in an <hi>Vnknown Tongue</hi> / directly contrary to the Apo<g ref="char:EOLhyphen"/>ſtles Direction, 1 <hi>Cor.</hi> XIV. 16. <hi>How ſhall the Un<g ref="char:EOLhyphen"/>learned ſay Amen at thy giving of Thanks, ſeeing he un<g ref="char:EOLhyphen"/>derſtandeth not what thou ſayest?</hi> And verſ. 19. <hi>In the Church I had rather ſpeak five words with my Underſtand<g ref="char:EOLhyphen"/>ing, that by my Voice I might teach others alſo, than Ten Thouſand Words in an Unknown Tongue.</hi>
+            </p>
+            <p n="95">
+               <label>
+                  <hi>Sect</hi> 97.</label> Thus, Gentlemen, you ſee that you have no Foundation in <hi>Scripture,</hi> and but vain Pre<g ref="char:EOLhyphen"/>tences of <hi>Antiquity,</hi> for thoſe <hi>Articles</hi> that have been Impos'd upon you: And therefore your Church has ſet up <hi>Traditions</hi> / that is, <hi>Reports</hi> and <hi>Tales</hi> coyn'd for their purpoſe, to be the <hi>Ca<g ref="char:EOLhyphen"/>non</hi> and <hi>Rule of Faith,</hi> not regarding the Wo pro<g ref="char:EOLhyphen"/>nounc'd againſt thoſe who ſhould <hi>add to,</hi> or <hi>di<g ref="char:EOLhyphen"/>minish from, the Canonical Word of GOD.</hi> 'Tis true, the <hi>Vniverſal</hi> Tradition and Practice of <hi>All Churches,</hi> and in <hi>All Ages,</hi> deſerves great Re<g ref="char:EOLhyphen"/>ſpect, and we accordingly give it, in the Obſerva<g ref="char:EOLhyphen"/>tion
+<pb n="33" facs="tcp:204451:18"/> of the Lords Day <hi>(Sunday)</hi> and in Baptizing <hi>Infants.</hi> But to argue from hence, That the <hi>Traditions,</hi> Reports and Inventions of any Sect, Faction, or <hi>Particular Church,</hi> ought to be deem'd Evidence for it ſelf, is the moſt Sophiſtical Infe<g ref="char:EOLhyphen"/>rence that can be, and directly againſt the Apoſtles Advice, <hi>Not to think of Men above that which is written</hi> 2 Cor VI. 6.</p>
+            <p n="96">
+               <label>
+                  <hi>Sect</hi> 98.</label> How much ſafer is it to rely upon the <hi>Holy Scriptures,</hi> which being dictated by the <hi>HOLY GHOST,</hi> are <hi>Infallible</hi> and <hi>Divine,</hi> and cannot Deceive?</p>
+            <p n="97">
+               <label>
+                  <hi>Sect</hi> 99.</label> But ſay you, We may be miſtaken in the <hi>Interpretation;</hi> and ſo you may in the Inter<g ref="char:EOLhyphen"/>pretation of any Rule of Faith, Traditions, De<g ref="char:EOLhyphen"/>crees of Councils, <hi>&amp;c.</hi> Yet ſtill you muſt judge for your ſelf the beſt you can, with ſuch Helps as you can get, <hi>Exerciſing your Senſes to diſcern Good and Evil,</hi> Heb. V. 14.</p>
+            <p n="98">
+               <label>
+                  <hi>Sect</hi> 100.</label> Were the <hi>Scriptures</hi> Intelligible to the <hi>Hearers</hi> to whom our <hi>Saviour</hi> and the <hi>Apoſtles</hi> preach'd them? If not, to what purpoſe were they preach'd? If they were then Intelligible, are they now become otherwiſe by being <hi>Written?</hi> Or if they are, what need we go to Particulars and Ni<g ref="char:EOLhyphen"/>ceties? Will not an Implicit Faith in the <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> ſerve, as well as the like Faith in the <hi>Church?</hi>
+            </p>
+            <p n="99">
+               <label>
+                  <hi>Sect</hi> 101.</label> Nevertheleſs I allow an <hi>Orthodox Church</hi> to be a great Help and good Guide in Ex<g ref="char:EOLhyphen"/>plaining Scripture, but how will you <hi>chooſe</hi> this Church, but by the Notes and Characters of it in Scripture, wherein the <hi>Church</hi> (till you are of it) can give you no Aſſiſtance? To what purpoſe do you publiſh <hi>Notes of the Church,</hi> and <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> for it, but to convince our Judgments? You may as well propoſe them to a Horſe as to a Man, if he may not uſe his Underſtanding to diſtinguiſh. If then we muſt truſt our <hi>Iudgments</hi> in chooſing <hi>what Church we will be of,</hi> we may as well truſt them in Points leſs material.</p>
+            <p n="100">
+               <pb n="34" facs="tcp:204451:19"/> 
+               <hi>Sect.</hi> 102. I ſaid, <hi>An Orthodox Church is a good Guide:</hi> But how ſhall we find it? Even by this Mark, <hi>That its Doctrine is conſonant to the Holy Scriptures, and its main deſign is the Glory of GOD, and the Salvation of Souls:</hi> It does not countenance Un<g ref="char:EOLhyphen"/>juſtifiable Means of gaining Proſelytes, nor Encou<g ref="char:EOLhyphen"/>rage <hi>Evil,</hi> that <hi>Good may come of it.</hi> On the contrary, the <hi>Church</hi> of <hi>Rome</hi> uſes a Thouſand Ar<g ref="char:EOLhyphen"/>tifices and <hi>Pious Frauds:</hi> Sometimes frightning you with Superſtitious Bugbears, otherwhiles rai<g ref="char:EOLhyphen"/>ſing your Hopes upon falſe Notions and groundleſs Expectations; and where her <hi>Subtilty</hi> fails, her <hi>Cruelty</hi> ſupplies a Mercileſs Inquiſition, to <hi>force</hi> Thoſe ſhe cannot otherwiſe <hi>perſwade,</hi> to ſubmit to her <hi>Tyranny,</hi> and promote her <hi>Grandeur.</hi>
+            </p>
+            <p n="101">
+               <label>
+                  <hi>Sect</hi> 103.</label> Let's try her <hi>Sincerity</hi> in the Topicks made uſe of to deceive you, and keep you in her Communion: 1ſt. They ſay you are an <hi>Irish<g ref="char:EOLhyphen"/>man,</hi> and ought manfully to ſupport a <hi>National</hi> Quarrel. 2dly, That your <hi>Intereſt,</hi> and Hopes of Recovering your loſt Eſtate, ſhould render you inſeparable from <hi>Popery.</hi> 3dly, That your <hi>Loy<g ref="char:EOLhyphen"/>alty</hi> to K. <hi>James</hi> ſhould oblige you. 4thly, That <hi>Popery</hi> is the <hi>Ancient Religion.</hi> 5thly, That 'tis the Religion of your <hi>Forefathers.</hi> 6thly, That there is but <hi>One Faith,</hi> and <hi>One Church,</hi> which is that of <hi>Rome.</hi> 7thly, That <hi>Popery</hi> is the <hi>Sa<g ref="char:EOLhyphen"/>fer Religion</hi> And 8thly, That 'tis not Honour<g ref="char:EOLhyphen"/>able to <hi>change</hi> your Religion. All which <hi>I</hi> ſhall endeavour to prove Fallacious or Falſe.</p>
+            <p n="102">
+               <label>
+                  <hi>Sect</hi> 104.</label> The Firſt is partly Anſwered <hi>Sect.</hi> 32. where it appears you are of <hi>English</hi> Extraction; but 'twill be a full Anſwer to ſay, That we have no <hi>National</hi> Quarrel againſt you, moſt of us having been born in this <hi>Nation;</hi> nor do we look upon you, when you come over to the <hi>English Inte<g ref="char:EOLhyphen"/>reſt and Religion,</hi> to be other than <hi>Englishmen;</hi> as you may ſee in the Noble Families of the Earls of <hi>Thomond</hi> and <hi>Inſiquine,</hi> and many others, as <hi>Mac<g ref="char:EOLhyphen"/>guire, Coughlan,</hi> &amp;c. Between whom and thoſe
+<pb n="35" facs="tcp:204451:19"/> of <hi>English Extraction,</hi> no manner of difference <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s made.</p>
+            <p n="103">
+               <label>
+                  <hi>Sect</hi> 105.</label> To the ſecond <hi>I</hi> ſay, It does not con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ern ſuch of you as are <hi>Reſtor'd</hi> or in <hi>Poſſeſſion,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Bulk of the <hi>common People,</hi> who would get nothing but more <hi>Tyrannical</hi> Maſters, if the <hi>Old Irish</hi> were Reſtor'd; nor the <hi>Merchants, Lawyers, Phyſicians</hi> and <hi>Gentlemen</hi> that loſt no Eſtates; why then ſhould <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſe</hi> ſuffer themſelves <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be us'd as the <hi>Cat's Paw</hi> was by the <hi>Monkey</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Fable, and let their own Fingers be burnt to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull <hi>Nuts</hi> out of the <hi>Fire</hi> of Rebellion, for the Prieſt and the old Proprietor to eat? 'Tis certain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y therefore the <hi>Intereſt</hi> of all theſe to live in Peace, and ſee Themſelves and their Country proſper and flouriſh, and to contribute to it by their <hi>Conformi<g ref="char:EOLhyphen"/>ty</hi> to the Excellent <hi>Laws</hi> and Pure <hi>Religion</hi> therein Eſtabliſhed. Nay, the <hi>Old Proprietor,</hi> if he has any Grace, Honeſty or Bowels, will rather delight to ſee his <hi>Country</hi> United and Settled in <hi>Peace</hi> and <hi>True Religion,</hi> and ſeek for <hi>New</hi> Purchaſes by his Induſtry, than endeavour to put it in a <hi>flame,</hi> and hazard himſelf and his Friends upon <hi>vain</hi> and ima<g ref="char:EOLhyphen"/>ginary <hi>Hopes.</hi> But as for the <hi>Prieſts,</hi> I know them ſo well, and their love of <hi>Gain,</hi> that I have no hopes to convert them, without a <hi>Penſion<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p n="104">
+               <label>
+                  <hi>Sect</hi> 106.</label> As to the Third, <hi>Loyalty to the late King James,</hi> it has been partly touch'd upon before; but I muſt add, That <hi>Ireland</hi> was at firſt Conquer'd by the <hi>Blood</hi> and <hi>Treaſure</hi> of <hi>England,</hi> and thereby, and by the repeated Oaths and Submiſſions of the <hi>Iriſh,</hi> became <hi>part of the Dominions of England,</hi> and and a Subordinate Kingdom to that Crown; and ſince that, by ſeveral Acts of Parlia<g ref="char:EOLhyphen"/>ment, <hi>Ireland has been Inſeparably <g ref="char:V">Ʋ</g>nited and Annex<g ref="char:EOLhyphen"/>ed to the Imperial Crown of England,</hi> from whence it will follow, That whoſoever is King of <hi>England,</hi> is <hi>ipſo facto</hi> King of <hi>Ireland,</hi> as much as he is of <hi>Berwick,</hi> or the <hi>Iſle of Wight;</hi> and the conſequence of that will be, That when King <hi>James</hi> Abdicated <hi>England.</hi>
+               <pb n="36" facs="tcp:204451:20"/> he deſerted all its <hi>Dominions,</hi> and among the reſt <hi>Ireland.</hi> And as ſoon as his Preſent Majeſty was De<g ref="char:EOLhyphen"/>clar'd <hi>King,</hi> and had the <hi>Crown</hi> of <hi>England,</hi> the ſame inſtant he became <hi>Lawful</hi> &amp; <hi>Rightful</hi> (for I ſee no difference, ſince Law is the Rule of Right) <hi>King</hi> of <hi>Ireland;</hi> and to conſpire againſt him thenceforward, was and is <hi>Treaſon;</hi> and to levy War againſt him, is open and actual <hi>Rebellion.</hi>
+            </p>
+            <p n="105">
+               <label>
+                  <hi>Sect</hi> 107.</label> And this is proved not only by <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> and <hi>Conſtant Practice</hi> in all Ages, but alſo by the greateſt <hi>Authority</hi> the Law is Conuſant of, and that is, the <hi>Opinion and Judgment of all the Judges in both Kingdoms,</hi> and <hi>the Supream Authority of both Par<g ref="char:EOLhyphen"/>liaments;</hi> this is the <hi>Legiſlative Power;</hi> for the King and Parliament cannot only Interpret, but alſo Make Laws: And they have both <hi>Authorita<g ref="char:EOLhyphen"/>tively</hi> and <hi>Declaratively</hi> ſettled this Point ſo, as to make it <hi>Binding</hi> both to the <hi>Iudgment</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſciences</hi> of all His Majeſties Subjects: From whence it follows That the <hi>pretended Loyalty</hi> your Prieſts encourage in you towards K. <hi>James,</hi> is in Truth No<g ref="char:EOLhyphen"/>torious <hi>Diſloyalty,</hi> Undoubted <hi>Treaſon,</hi> and Ma<g ref="char:EOLhyphen"/>nifeſt <hi>Perjury,</hi> and Breach of the Oath of Fidelity you have taken to King <hi>William:</hi> But what care your Spiritual Guides for that, if you would but help them to recover their Juriſdiction, their Tythes, and their Abby and Church-Lands?</p>
+            <p n="106">
+               <label>
+                  <hi>Sect</hi> 108.</label> As to the Fourth, <hi>Antiquity,</hi> 'Tis no <hi>Conſtant</hi> Note of the Church, for it had a <hi>Begin<g ref="char:EOLhyphen"/>ning;</hi> the Churches of <hi>Jeruſalem</hi> and <hi>Antioch</hi> are more Antient than that of <hi>Rome,</hi> and yet have Apo<g ref="char:EOLhyphen"/>ſtatiz'd; and the <hi>Greek</hi> Church is altogether as old, and has had a conſtant Succeſſion of Biſhops. But to give this a full Anſwer, The Church of <hi>Rome</hi> has nothing <hi>Antient,</hi> I mean <hi>Primitive,</hi> but what we agree in: Her <hi>New Creed</hi> ſhews that ſhe has a <hi>New Religion</hi> as to the Points in difference, which are al<g ref="char:EOLhyphen"/>ready ſhewn to be <hi>Novelties,</hi> introduced one after another, as ſhe had occaſion and opportunity: And therefore ſhe declines to be tried by Scripture,
+<pb n="37" facs="tcp:204451:20"/> well knowing that is the <hi>Old Religion</hi> which was Revealed at <hi>firſt,</hi> and is recorded in the holy Scrip<g ref="char:EOLhyphen"/>tures, where Popery is not to be found.</p>
+            <p n="107">
+               <label>
+                  <hi>Sect</hi> 109.</label> As to the Fifth, It follows from what has been ſaid, That <hi>Popery</hi> as now practis'd, was not the Religion of your <hi>Forefathers:</hi> Beſides, your Anceſtors Renounced the Supremacy of the Pope, by Indenture, <hi>Anno</hi> 32 <hi>Heb.</hi> VIII. And long before that by the Statutes of Proviſors and Premu<g ref="char:EOLhyphen"/>nire manifeſted that they were not ſuch <hi>Bigots</hi> to the <hi>Papacy</hi> as you are: They Enacted the <hi>Oath of Supremacy,</hi> and took it, and generally went to <hi>Church,</hi> and were called <hi>Church-Papiſts,</hi> until the Proſpect of ſome hopeful Rebellion in favour of <hi>Rome,</hi> made them <hi>Recuſants.</hi>
+            </p>
+            <p n="108">
+               <label>
+                  <hi>Sect</hi> 110.</label> But what if your <hi>Forefathers</hi> wer-<hi>Papiſts</hi> / would you therefore Prefer your Extra<g ref="char:EOLhyphen"/>ction before the Truth, Or were not their <hi>An<g ref="char:EOLhyphen"/>ceſtors Heathens,</hi> and as it would be ill in your <hi>Forefathers</hi> to remain <hi>Heathens,</hi> becauſe their <hi>Anceſtors</hi> were ſo, it is as ill in you to remain in <hi>Error,</hi> Ignorance and Superſtition, becauſe your <hi>Forefathers</hi> were in that condition. In ſhort, This was the Argument of the <hi>Iews</hi> againſt their Converſion; if it did ſound <hi>Ill</hi> in their Mouths, 'twill not ſound <hi>Well</hi> in yours.</p>
+            <p n="109">
+               <label>
+                  <hi>Sect</hi> 111.</label> As to the Sixth, That there is but <hi>One Faith,</hi> and <hi>One Church,</hi> 'tis true, but that is the <hi>Chriſtian Faith,</hi> and <hi>Chriſtian Church;</hi> and tho' the ſeveral ſorts of Chriſtians, as <hi>Papiſts, Proteſtants, Greeks, Armenians,</hi> &amp;c. may be ſaid to be of different Communions, <hi>Parties</hi> or Sects, yet they are all Parts of the <hi>Catholcik Church,</hi> and are all of that <hi>One</hi> Chriſtian <hi>Church faith,</hi> and <hi>Religion</hi> mention'd in the <hi>Goſpel;</hi> and therefore the <hi>Baptiſm</hi> of each of theſe Chur<g ref="char:EOLhyphen"/>ches is allowed by the reſt; and the <hi>Papiſts</hi> dare not <hi>Re-baptize</hi> thoſe that were Chriſtned by <hi>Proteſtants,</hi> which proves that they admit the <hi>Proteſtant</hi> to be a <hi>True Chriſtian Church:</hi>
+               <pb n="38" facs="tcp:204451:21"/> And they know well enough, That difference in Opinion does not always make one of a differ<g ref="char:EOLhyphen"/>ent Religion; elſe the <hi>Fathers</hi> were not <hi>Ca<g ref="char:EOLhyphen"/>tholicks<g ref="char:punc">▪</g>
+               </hi> for there were very few of them but differ'd in ſome Point or other; many of them were <hi>Millienaries</hi> / and ſome had Notions more Hetrodox: Nay, Separate Communions do ma<g ref="char:EOLhyphen"/>ny times rather infer ſeveral <hi>Factions</hi> / than diffe<g ref="char:EOLhyphen"/>rent <hi>Religions;</hi> as appears between the <hi>Epiſco<g ref="char:EOLhyphen"/>parians<g ref="char:punc">▪</g> Presbyterians</hi> and <hi>Independants,</hi> whoſe Creed is the <hi>ſame<g ref="char:punc">▪</g>
+               </hi> and conſequently their <hi>Religion.</hi> So that it is a Palpable Artifice to ap<g ref="char:EOLhyphen"/>ply thoſe Texts of the <hi>Goſpel</hi> relating to <hi>One Church / One Faith</hi> &amp;c. to any <hi>Particular</hi> Sect, Party, Faction or Communion, within the Catho<g ref="char:EOLhyphen"/>lick or <hi>Chriſtian Church.</hi>
+            </p>
+            <p n="110">
+               <label>
+                  <hi>Sect</hi> 112.</label> It muſt be underſtood that the word <hi>Catholick</hi> ſignifies <hi>Vniverſal,</hi> and ſo 'tis in the Apoſtles Creed in French, <hi>L' Eſgliſe Univerſelle,</hi> The Univerſal Church; which is what I ſaid be<g ref="char:EOLhyphen"/>fore, <hi>The Chriſtian Church throughout the World.</hi> Now with what Front can the <hi>Particular Church of Rome</hi> call it ſelf <hi>The Vniverſal Church?</hi> Certainly it would never have paſt, if the People had not been blinded with the Term <hi>Catholick,</hi> which they thought ſignified no more than <hi>Orthodox.</hi> But, ſay the <hi>Papiſts,</hi> We do not mean the <hi>Particular Dioceſs of Rome</hi> only, but alſo all other parts of the World that are in Communion with her, and this we call <hi>The Vniverſal Church</hi> But this won't mend the <hi>Blun<g ref="char:EOLhyphen"/>der,</hi> becauſe all thoſe Churches in Communion with <hi>Rome</hi> do make but a <hi>part</hi> (much greater in<g ref="char:EOLhyphen"/>deed than before) of the <hi>Vniverſal Church,</hi> whilſt there are any other <hi>Chriſtian Churches</hi> out of its Communion: For the <hi>Vniverſal Church</hi> muſt comprehend <hi>All Aſſemblies of Chriſtians</hi> over all the World. So that if there were 1000 Chriſtian Churches or Congregations in the World. and 900 of them vvere of the Popiſh
+<pb n="39" facs="tcp:204451:21"/> Communion, as one Third of them are not, yet vvere not ſhe the <hi>Catholick</hi> or <hi>Vniverſal</hi> Church, properly ſpeaking, or in any other ſenſe, but as Profeſſing the Faith and Doctrine vvhich <hi>our Saviour</hi> Publiſhed to the Univerſal World. And it is the Point in Queſtion vvhether ſhe does that or no. And 'tis to be noted that the vvord <hi>Catho<g ref="char:EOLhyphen"/>lick</hi> is inſerted in the Creed, in oppoſition to <hi>Iu<g ref="char:EOLhyphen"/>daiſm</hi> / vvhich vvas in effect appropriated to a <hi>Few;</hi> vvhereas the <hi>Chriſtian</hi> Religion is <hi>Catho<g ref="char:EOLhyphen"/>lick,</hi> and Univerſally offered to <hi>The Whole World,</hi> and all the Nations thereof.</p>
+            <p n="111">
+               <label>
+                  <hi>Sect</hi> 113.</label> To the Seventh I anſvver. That Po<g ref="char:EOLhyphen"/>pery is not the ſafer Religion, but on the contrary, is by reaſon of its Idolatry and Superſtition the moſt dangerous of all Chriſtian Religions: 'Tis true We dare not Limit the Infinite Mercy of God, nor determine hovv far Invincible Ignorance may excuſe <hi>Idolaters, Papiſts,</hi> or even <hi>Turks</hi> and <hi>Heathens;</hi> Does it follovv that any Man ſhould chooſe to be an Idolater or a Papiſt, or a Turk ra<g ref="char:EOLhyphen"/>ther then to be a Good Chriſtian, becauſe this laſt is Modeſt and vvill not Pronounce any Man Damn'd without warrant, and the former are Raſh and Uncharitable in Cenſures they have no Ground for. Suppoſe two Ships Sayling together, one Stanch and the other Leaky, the Crew of the latter ſwear the ſtanch Veſſel will Periſh, the o<g ref="char:EOLhyphen"/>thers perceive no danger to themſelves, but think 'tis 1000 to one if the Leaky Veſſel reaches the Shore, Yet allow that 'tis poſſible ſhe may, Which of theſe two would a Wiſe Man chooſe to go in? or has he any thing to do but to examine which is the Leaky Veſſel? and which is the Stanch one.</p>
+            <p n="112">Moreover if We Examine this Popular Argu<g ref="char:EOLhyphen"/>ment by like caſes that have happened in the Church we ſhall find it but a Pittiful piece of So<g ref="char:EOLhyphen"/>phiſtry: The <hi>Donatiſts</hi> denyed the Baptiſm of the <hi>Catholicks,</hi> whilſt the Church allowed the Baptiſm of the <hi>Donatiſts,</hi> yet would not S. <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi>
+               <pb n="40" facs="tcp:204451:22"/> be Re<g ref="char:EOLhyphen"/>baptiz'd: St. <hi>Paul</hi> owns a Poſſibility of Salvation to the <hi>Iudaizing Chriſtians,</hi> who built with Straw and Stubble on Foundations of <hi>Chriſtianity,</hi> Which They denyed to The <hi>Ortho<g ref="char:EOLhyphen"/>dox,</hi> So that if this <hi>Popish Argument</hi> were Good, All the <hi>Orthodox</hi> ſhould have <hi>Iudaiz'd,</hi> ſince both ſides Allowed, They might be ſaved; But St. <hi>Paul</hi> and the Primitive Chriſti<g ref="char:EOLhyphen"/>ans were wiſer then to leave a certain way of Salvation for a meer Poſſibility of being Saved.</p>
+            <p n="113">Beſides The Proteſtant Religion is the ſafer be<g ref="char:EOLhyphen"/>cauſe it Enjoyns you to believe no more then you do already, and only Obliges you to Reject ſome <hi>New</hi> Whimſies, which may ſafely be omitted whether the Doctrine be true or falſe; for Example, tho' the Doctrine of <hi>Merit</hi> were True, Yet 'tis more ſafe to depend upon the Merits of Our Saviour, than upon our Own; If there be a <hi>Purgatory,</hi> Yet 'tis ſafer to make our Calling and Election, ſure by Piety, and Repen<g ref="char:EOLhyphen"/>tance, in this Life, then to Rely upon future Pur<g ref="char:EOLhyphen"/>gations; If the <hi>Saints</hi> do hear, yet 'tis more Safe and Profitable to make our Prayers, and Addreſſes to God, And even if <hi>Tranſubſtantiation</hi> it ſelf were True; Yet it would be ſafe to approach the Altar, with that Preparation, and Reverence, our Church enjoyns, but if it be not True 'tis very Unſafe, and Plain Idolatry to Adore corruptible Bread, for the Ever living and Incorruptible GOD.</p>
+            <p n="114">
+               <label>
+                  <hi>Sect</hi> 114.</label> And as to the Eighth and laſt Obje<g ref="char:EOLhyphen"/>ction, I Anſwer, That nothing is more Ingenuous and Praiſe-worthy, than to Confeſs and Forſake ones <hi>Errors;</hi> And nothing more <hi>Dishonourable</hi> than to be <hi>Obſtinate</hi> in a <hi>Bad Cauſe.</hi> If it had been a Principle that were Juſtifiable, <hi>That one never ought to change ones Sentiment:</hi> our Saviours Preach<g ref="char:EOLhyphen"/>ing had been in vain, ſince there could be neither Converſion nor Reformation, without ſubverting this <hi>Specious Principle.</hi> But the Truth is, the Princi<g ref="char:EOLhyphen"/>ple is not Good, but Worldly, Proud and Deceit<g ref="char:EOLhyphen"/>ful,
+<pb n="41" facs="tcp:204451:22"/> and tending to keep us always in the wrong, if once we happen to be ſo. On the contrary, when the Firſt Impreſſions are <hi>Ill,</hi> we are Oblig'd in <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> to change for the <hi>Better.</hi>
+            </p>
+            <p n="115">
+               <label>
+                  <hi>Sect</hi> 115.</label> But what are the miſtaken Notions of <hi>Honour,</hi> to the Salvation of ones <hi>Soul?</hi> Or have not you done enough to vindicate your <hi>Honour,</hi> that you have ſtuck to an Abdicated Cauſe till you ſee it ſo entirely bafled that 'tis become the Deriſion of <hi>Europe?</hi>
+            </p>
+            <p n="116">
+               <label>
+                  <hi>Sect</hi> 116.</label> Have not too many of you already been Miſguided by your Prieſts into ſo much Vil<g ref="char:EOLhyphen"/>lany, that your <hi>Guilt</hi> robbs you of the <hi>Comfort</hi> Good Men might have in their Sufferings? Are you not render'd Poor and Miſerable by being <hi>Tools</hi> for an Infatiable <hi>Clergy,</hi> that ſuck from you all they can get, even in this Extremity? And have not they, <hi>for their own Ends,</hi> prompted you to all the Re<g ref="char:EOLhyphen"/>bellions you have been guilty of, from whence your Forfeitures, Confiſcations, and Miſeries have proceeded?</p>
+            <p n="117">
+               <label>
+                  <hi>Sect</hi> 117.</label> On the other ſide, Gentlemen, you find that the <hi>Proteſtants</hi> are an Honeſt Good-Natur'd People, infinitely kinder to you than either you deſerv'd or hop'd for; And above all, <hi>The KING,</hi> whom you had Provok'd to the laſt Degree, <hi>Spite<g ref="char:EOLhyphen"/>fully</hi> and <hi>Unneceſſarily,</hi> and conſequently from whom you expected no Mercy; has yet graciouſly mani<g ref="char:EOLhyphen"/>feſted Himſelf to you the moſt <hi>Generous</hi> and moſt <hi>Merciful</hi> Prince in the world: So that you never ſuffer'd leſs <hi>Perſecution</hi> for the Exerciſe of your Re<g ref="char:EOLhyphen"/>ligion, than at this day. All which being conſider<g ref="char:EOLhyphen"/>ed, This ſeems the moſt proper <hi>Juncture</hi> that ever happened, to Undeceive and <hi>Convert</hi> you, and to Diſpoſe you to a Thorough Reformation, and to become Good <hi>Proteſtants,</hi> and Good <hi>Subjects.</hi>
+            </p>
+            <p n="118">
+               <label>
+                  <hi>Sect</hi> 118.</label> And ſurely thoſe of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion will co-operate all they can to this Conver<g ref="char:EOLhyphen"/>ſion, by Exhortation and Example, by Good Offi<g ref="char:EOLhyphen"/>ces and Good Advice. And certainly the <hi>IRIS<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="42" facs="tcp:204451:23"/> worthy of their Care, and are endued with ſuch <hi>Excellent Qualities,</hi> as will deſerve and recompence all the <hi>Pains</hi> that ſhall be taken in that <hi>Pious Work.</hi> For it cannot be denied but that the <hi>Iriſh</hi> abound in the <hi>Perfections</hi> of Body and Mind. If you ſur<g ref="char:EOLhyphen"/>vey their Perſons, you will find their <hi>Complexions</hi> Good, their <hi>Conſtitutions</hi> Healthy, their <hi>Limbs</hi> Nim<g ref="char:EOLhyphen"/>ble and Active, their <hi>Stature</hi> Tall, and their <hi>Bodies</hi> Strong and comely: And if you ſearch their <hi>Minds,</hi> you will find them Religious, Conſtant, Patient, and <hi>Faithful;</hi> very <hi>Docible,</hi> and deſirous of Inſtruction; Naturally inclin'd to <hi>Manners</hi> and Complement, <hi>Generous</hi> beyond Example, and Pro<g ref="char:EOLhyphen"/>fuſely <hi>Hoſpitable,</hi> even to a Fault. And in ſhort, If it were not for the <hi>Bad Principles</hi> of their Religion, they would be <hi>very good Neighbours, good Subjects,</hi> and <hi>good Men.</hi>
+            </p>
+            <p n="119">
+               <label>
+                  <hi>Sect</hi> 119.</label> 'Tis true, That the beſt <hi>Edge</hi> is ſoon<g ref="char:EOLhyphen"/>eſt <hi>Turn'd,</hi> and the ſweeteſt <hi>Wine</hi> makes the ſowreſt <hi>Vinegar;</hi> And the beſt things when corrupted, dege<g ref="char:EOLhyphen"/>nerate into the other Extream: And 'tis as true, That theſe <hi>Vertues</hi> of the <hi>Iriſh,</hi> for want of Inſtru<g ref="char:EOLhyphen"/>ction and Cultivation, are become Intollerable <hi>Vi<g ref="char:EOLhyphen"/>ces:</hi> Thus their <hi>Religion</hi> is dwindled into <hi>Superſtition</hi> and <hi>Bigotry,</hi> their <hi>Constancy</hi> turn'd to <hi>Obſtinacy,</hi> their <hi>Patience</hi> to <hi>Stupidity,</hi> and even their <hi>Fidelity</hi> is become the Cauſe of the <hi>Perfidiouſneſs</hi> and <hi>Ingratitude</hi> they are accuſed of.</p>
+            <p n="120">
+               <label>
+                  <hi>Sect</hi> 120.</label> And it is to ſet them Right in theſe Important Matters, that is the Charitable Deſign of theſe Papers; Which if they take Effect, will <hi>Re<g ref="char:EOLhyphen"/>ſtore</hi> the Splendor of their <hi>Vertues,</hi> bring them from <hi>Darkneſs</hi> to <hi>Light,</hi> and from <hi>Ignorance</hi> and <hi>Miſery,</hi> to <hi>Happineſs</hi> and <hi>Underſtanding.</hi>
+            </p>
+            <p n="121">
+               <label>
+                  <hi>Sect</hi> 121.</label> And ſince there is a great deal of Truth in the Petition of the Miſerable <hi>Iriſh,</hi> to the <hi>French</hi> King, ſetting forth their Deplorable Condition, and the inſupportable Calamities they have Suffered. And that they have Poſtpond all that is Dear to Men, ſo (I ſay the <hi>Miſtaken)</hi> concerns of Religion, Does
+<pb n="43" facs="tcp:204451:23"/> it not hence follow, That if they have Done and Suffered thus in a Bad cauſe, They would have Done yet better in a Good One, being rightly In<g ref="char:EOLhyphen"/>ſtructed. Is it not then a Noble Work and Wor<g ref="char:EOLhyphen"/>thy our Greateſt Dilligence to Adviſe and Inſtruct them Effectually? And ſhould not We from this Conſideration, be Prompted to Labour Your Con<g ref="char:EOLhyphen"/>verſion, and ſhould not you from hence be Cauti<g ref="char:EOLhyphen"/>ous to avoid Thoſe Superſtitions, and Follys that have Reduced your Miſerable Countrymen to that Wretched Condition.</p>
+            <p n="122">
+               <label>
+                  <hi>Sect</hi> 122.</label> But 'tis Objected that the <hi>Iriſh</hi> Con<g ref="char:EOLhyphen"/>verts are not Sincere, and will <hi>Apoſtatize</hi> when Time ſerves, and it might be true if they were Forc'd and Perſecuted to it. But ſince they are un<g ref="char:EOLhyphen"/>der No Perſecution for their Religion, ſo that their Converſion is Voluntary; One may ſay that the Suggeſtion is falſe and Uncharitable: as may be ſeen in the firſt <hi>Converts</hi> and in ſome of the Nobleſt Families of this Kingdom whoſe Converſions were Sincere, and whoſe Poſterity have Proved <hi>Champions</hi> for the <hi>Faith.</hi> Nor can a few in<g ref="char:EOLhyphen"/>ſtances of the contrary, eſpecially when Under Temptations that were Inſuperable to ſome of our own, Juſtify an Objection ſo General. Beſides Time, Inſtruction, and Example ſtrengthen thoſe Notions that were weak at firſt; and their Chil<g ref="char:EOLhyphen"/>dren will be firm and free from the Pre-poſſeſſions of their Fathers, which conſideration alone is ſuffi<g ref="char:EOLhyphen"/>cient to Induce Us to Labour Your Conformity.</p>
+            <p n="123">
+               <label>
+                  <hi>Sect</hi> 123.</label> But 'tis farther Objected, That no People was ever more <hi>Vngrateful</hi> and <hi>Perfidi<g ref="char:EOLhyphen"/>ous</hi> than the <hi>Iriſh</hi> have been to the <hi>Engliſh,</hi> after Innumerable <hi>Favours</hi> Receiv'd from the <hi>Government,</hi> and <hi>Obligations</hi> from Particular Men: And the Matter of Fact is <hi>True,</hi> but yet the Aſperſion is not <hi>Iuſt:</hi> For whenever <hi>Two</hi> Obligations concur, an Honeſt Man is bound to Prefer the <hi>Greater,</hi> and to Reject the <hi>Leſs.</hi> If my <hi>Father</hi> and my <hi>Friend</hi> Quarrel, 'tis no <hi>Vn<g ref="char:EOLhyphen"/>faithfulneſs</hi>
+               <pb n="44" facs="tcp:204451:24"/> to my <hi>Friend</hi> that I help my <hi>Father.</hi> 'Tis reckon'd to <hi>Abraham</hi> for Righteouſneſs, that he would have Sacrific'd his Only Son at the Com<g ref="char:EOLhyphen"/>mandment of GOD. And 'tis Frivolous to Ob<g ref="char:EOLhyphen"/>ject the Unnatural Barbarity of an Action, when 'tis <hi>Commanded by GOD ALMIGHTY,</hi> who will either prevent the Doing it, or confer Circumſtan<g ref="char:EOLhyphen"/>ces that will Sanctifie the thing.</p>
+            <p n="124">
+               <label>
+                  <hi>Sect</hi> 124.</label> In all Caſes one is bound to regard the <hi>Superiour</hi> Obligation; And therefore when the <hi>Command of GOD</hi> and the Proſperity of their Re<g ref="char:EOLhyphen"/>ligion and Countrey, as They thought, came in Competition with their <hi>Obligations to the Engliſh,</hi> They ſhould not be Accuſed of <hi>Ingratitude</hi> or <hi>Perſidiouſneſs</hi> for preferring the former.</p>
+            <p n="125">
+               <label>
+                  <hi>Sect</hi> 125.</label> And 'tis certain, that Accuſe them of what you will, as long as they continue <hi>Papiſts;</hi> they will (Maugre all Obligations) <hi>Deſiroy</hi> the <hi>Proteſtants,</hi> as often as They get Opportunity, and the Prieſt bids them: For here lies the Secret and Spring-Head of all their <hi>Faults</hi> and their <hi>Misfortunes,</hi> That they take the <hi>Voice</hi> of every Siliy <hi>Prieſt,</hi> for the <hi>Voice of GOD.</hi>
+            </p>
+            <p n="126">
+               <label>
+                  <hi>Sect</hi> 126.</label> And this it is which brings Reproach upon <hi>Iriſh Vnderſtanding:</hi> Not that you want <hi>Wit,</hi> or Apprehenſion, but that you are <hi>Credulous,</hi> and take things upon <hi>Truſt,</hi> and conſequently are eaſily <hi>Impos'd upon:</hi> All the Stories the Clergy convey to you under the Name of <hi>Traditions,</hi> you Receive with an Undoubted <hi>Divine</hi> Faith: Though at the ſame time, Cardinal <hi>Baronius,</hi> who had better Examin'd them, tells you, <hi>That he De<g ref="char:EOLhyphen"/>ſpair'd to find out the Truth, even in Matters which True Writers have Recorded, becauſe there was Nothing remain<g ref="char:EOLhyphen"/>ed Sincera and Uncorrupted.</hi> Surely you muſt have heard of your <hi>Index Expurgatorius,</hi> and the Care that is taken to Raze out and <hi>Cancel</hi> every Text that makes againſt the <hi>Papacy.</hi> 'Tis probable that you have heard of the many <hi>Forgeries</hi> your Church ſtands Accuſed of, and yet you believe every Word
+<pb n="45" facs="tcp:204451:24"/> of <hi>The Lives of the Saints, and of the Golden L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gend<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> tho' <hi>Ludevicus Vives</hi> confeſſes, <hi>It is Unworthy Saints or Men; and was Written by a Man of an Iron Forehead, and a Leaden Underſtanding.</hi>
+            </p>
+            <p n="127">
+               <label>
+                  <hi>Sect</hi> 127.</label> But there is nothing more Scandalous to your <hi>Credulity</hi> or <hi>Religion,</hi> than the Ridicu<g ref="char:EOLhyphen"/>lous Account your <hi>Church</hi> has given us of her In<g ref="char:EOLhyphen"/>numerable <hi>Miracles:</hi> This <hi>Stabbs</hi> the Chriſtian <hi>Faith</hi> / and <hi>hardens</hi> the Jews in their <hi>Infidelity:</hi> For finding you have Trump'd up ſo many <hi>Falſe Miracles,</hi> They have little Regard to thoſe that are <hi>True.</hi> And 'tis Obſervable, That your <hi>Miracles</hi> cannot be for Conviction of <hi>Gainſayers,</hi> ſince they are not pretended to be done before any but thoſe of your <hi>Own Communion;</hi> And very few at all ſince the <hi>Reformation,</hi> when there was moſt need of them.</p>
+            <p n="128">
+               <label>
+                  <hi>Sect</hi> 128.</label> In ſhort, One cannot find more <hi>Comical Stories</hi> to Entertain Company, or make People merry with, than many of your <hi>Miracles,</hi> and ſome of your <hi>Sermons.</hi> and if my deſigned Brevity woul permit, I could give you many pleaſant Inſtances of both.</p>
+            <p n="129">
+               <label>
+                  <hi>Sect</hi> 129</label> This I ſay is it which brings your <hi>Vnderſtanding</hi> in Queſtion, That you will be per<g ref="char:EOLhyphen"/>ſwaded by <hi>Blind</hi> Prophecies, <hi>Falſe</hi> Miracles, <hi>Forg'd</hi> Traditions, and <hi>Doubtful</hi> Interpretations, againſt <hi>Common Senſe</hi> your own <hi>Experience,</hi> and the <hi>Plaineſt</hi> Texts of Scriptures.</p>
+            <p n="130">
+               <label>
+                  <hi>Sect</hi> 130.</label> And at the ſame Rate they have us'd you in the <hi>Hiſtory</hi> of your Countrey, which is not only for the moſt part <hi>Falſe,</hi> but utterly <hi>Impoſſible:</hi> All your Antiquaries pretend to draw every one of your Pedigrees through <hi>Mileſius,</hi> all along down from <hi>Adam;</hi> And you are generally tickled with the Fancy: Not conſidering that <hi>Mileſius</hi>'s Army and Officers had probably <hi>Their Part</hi> in the Gene<g ref="char:EOLhyphen"/>ration of Poſterity, as well as he; And that he was not <hi>Pater Patriae,</hi> in a Literal Senſe.</p>
+            <p n="131">
+               <pb n="46" facs="tcp:204451:25" rendition="simple:additions"/> 
+               <hi>Sect.</hi> 131. But Gentlemen, to paſs by theſe <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and come to a Concluſion: Since 'tis poſſible that ſome may labour your <hi>Confuſion,</hi> as earneſtly as others deſire your <hi>Converſion,</hi> it imports you to make it appear that you can diſtinguiſh between <hi>Friends</hi> and <hi>Enemies,</hi> in rendring of our Good Wiſhes for your Converſion, Succeſsful. If therefore you will diligently Read and Conſider what has been ſaid, and Conſult Able <hi>Divines</hi> for the Reſolution of any Doubts or Difficulties that may remain with you, the LORD giving you Un<g ref="char:EOLhyphen"/>nderſtanding, you may by His Grace be Converted, and in <hi>This World</hi> partake of all the Enjoy<g ref="char:EOLhyphen"/>ments to be found in an Excellent Countrey, under the Beſt <hi>Prince,</hi> and the Beſt <hi>Government</hi> in <hi>Chriſten<g ref="char:EOLhyphen"/>dom:</hi> And in <hi>The World to Come</hi> Enjoy Everlaſting Hap<g ref="char:EOLhyphen"/>pineſs with your Bleſſed SAVIOUR in <hi>Glory.</hi> But if your Malice to Us, or your Bigotry to the <hi>Prieſt</hi> has <hi>Enſlav'd</hi> you, to ſuch a degree of <hi>Stubborneſs,</hi> that you will not Learn, or be Better Inſtructed, you can<g ref="char:EOLhyphen"/>not Expect that We ſhould <hi>Truſt</hi> Men of your <hi>Principles,</hi> that are <hi>Without Reſerve</hi> under the Government of <hi>Others,</hi> and Thoſe Our Profeſs'd and Inveterate <hi>Ene<g ref="char:EOLhyphen"/>mies.</hi> On the contrary, ſeeing that We can have no <hi>Security</hi> of your Good Behaviour, and that there is no <hi>Safety</hi> but in your <hi>Impotence;</hi> Every Honeſt Man will concur in ſuch Methods as <hi>Self-Preſervation</hi> will both Dictate and Juſtifie.</p>
+            <p n="132">
+               <label>
+                  <hi>Sect</hi> 132.</label> I ſhall Conclude All, with a farther Earneſt Exhortation to the <hi>PROTESTANTS,</hi> MA<g ref="char:EOLhyphen"/>GISTRATES, CLERGY, and GENTRY, to uſe Their Beſt Endeavours to Convert you; who be<g ref="char:EOLhyphen"/>ing Their <hi>Tenants, Servants,</hi> or <hi>Neighbours,</hi> will be much Influenced by their Exhortations and Example: And if they will take this Happy Opportunity, and at<g ref="char:EOLhyphen"/>tempt it immediately, and <hi>All together,</hi> they will meet with Succeſs beyond their Expectation, and per<g ref="char:EOLhyphen"/>form ſuch an act of <hi>Charity</hi> and <hi>Wiſdom,</hi> as will highly Conduce to the Honour of their <hi>Religion,</hi> the Improve<g ref="char:EOLhyphen"/>ment and Safety of their <hi>Countrey,</hi> the Advancement of their <hi>Eſtates,</hi> and the Salvation of their <hi>Souls</hi> and yours. And even ſo be it, Bleſſed <hi>JESUS. Amen.</hi>
+            </p>
+            <p>And ſo, Gentlemen, with my hearty Prayers for your Converſion, I am ever. <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
